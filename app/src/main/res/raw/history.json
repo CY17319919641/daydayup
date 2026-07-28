@@ -1,0 +1,634 @@
+[
+  {
+    "question": "美国独立战争转折点是",
+    "field2": "萨拉托加",
+    "option_b": "来克星顿",
+    "option_c": "约克镇",
+    "option_d": "邦克山",
+    "id": 1
+  },
+  {
+    "question": "《共产党宣言》发表于",
+    "field2": "1848年",
+    "option_b": "1789年",
+    "option_c": "1871年",
+    "option_d": "1917年",
+    "id": 2
+  },
+  {
+    "question": "第一次国共合作正式形成的标志是",
+    "field2": "国民党一大",
+    "option_b": "中共三大",
+    "option_c": "五四运动",
+    "option_d": "北伐战争",
+    "id": 3
+  },
+  {
+    "question": "拿破仑颁布的法典是",
+    "field2": "拿破仑法典",
+    "option_b": "人权宣言",
+    "option_c": "王位继承法",
+    "option_d": "十二铜表法",
+    "id": 4
+  },
+  {
+    "question": "被称为“医中之王”的学者是",
+    "field2": "阿维森纳",
+    "option_b": "希波克拉底",
+    "option_c": "盖伦",
+    "option_d": "巴斯德",
+    "id": 5
+  },
+  {
+    "question": "法兰克王国墨洛温王朝的建立者是",
+    "field2": "克洛维",
+    "option_b": "查理曼",
+    "option_c": "丕平",
+    "option_d": "奥托",
+    "id": 6
+  },
+  {
+    "question": "辛亥革命推翻的制度是",
+    "field2": "君主专制",
+    "option_b": "封建土地制",
+    "option_c": "科举制",
+    "option_d": "分封制",
+    "id": 7
+  },
+  {
+    "question": "楔形文字的创造者是",
+    "field2": "苏美尔人",
+    "option_b": "古埃及",
+    "option_c": "腓尼基",
+    "option_d": "希腊人",
+    "id": 8
+  },
+  {
+    "question": "工业革命开始的标志是",
+    "field2": "珍妮纺纱机",
+    "option_b": "蒸汽机",
+    "option_c": "铁路",
+    "option_d": "电力",
+    "id": 9
+  },
+  {
+    "question": "第一次工业革命的发源地是",
+    "field2": "英国",
+    "option_b": "法国",
+    "option_c": "德国",
+    "option_d": "美国",
+    "id": 10
+  },
+  {
+    "question": "日本宣布无条件投降在",
+    "field2": "1945年",
+    "option_b": "1944年",
+    "option_c": "1946年",
+    "option_d": "1950年",
+    "id": 11
+  },
+  {
+    "question": "英国资产阶级革命结束的标志是",
+    "field2": "光荣革命",
+    "option_b": "内战爆发",
+    "option_c": "处死查理一世",
+    "option_d": "共和国成立",
+    "id": 12
+  },
+  {
+    "question": "西周为巩固统治实行的制度是",
+    "field2": "分封制",
+    "option_b": "郡县制",
+    "option_c": "禅让制",
+    "option_d": "行省制",
+    "id": 13
+  },
+  {
+    "question": "欧洲中世纪大学兴起于",
+    "field2": "12世纪",
+    "option_b": "8世纪",
+    "option_c": "15世纪",
+    "option_d": "5世纪",
+    "id": 14
+  },
+  {
+    "question": "欧盟正式成立在",
+    "field2": "1993年",
+    "option_b": "1957年",
+    "option_c": "1968年",
+    "option_d": "2004年",
+    "id": 15
+  },
+  {
+    "question": "张骞出使西域的主要意义在于",
+    "field2": "开辟丝路",
+    "option_b": "联合大月氏",
+    "option_c": "灭亡匈奴",
+    "option_d": "传播佛教",
+    "id": 16
+  },
+  {
+    "question": "二战亚洲战场全面爆发的标志是",
+    "field2": "七七事变",
+    "option_b": "九一八事变",
+    "option_c": "九一八事变",
+    "option_d": "九一八事变",
+    "id": 17
+  },
+  {
+    "question": "二战欧洲战场的转折点是",
+    "field2": "斯大林格勒",
+    "option_b": "莫斯科",
+    "option_c": "柏林",
+    "option_d": "库尔斯克",
+    "id": 18
+  },
+  {
+    "question": "虎门销烟的地点是",
+    "field2": "虎门",
+    "option_b": "广州",
+    "option_c": "厦门",
+    "option_d": "宁波",
+    "id": 19
+  },
+  {
+    "question": "法国大革命开始的标志是",
+    "field2": "攻占巴士底狱",
+    "option_b": "三级会议",
+    "option_c": "国民公会",
+    "option_d": "五月政变",
+    "id": 20
+  },
+  {
+    "question": "西汉时期开通丝绸之路的起点是",
+    "field2": "长安",
+    "option_b": "洛阳",
+    "option_c": "咸阳",
+    "option_d": "敦煌",
+    "id": 21
+  },
+  {
+    "question": "五四运动的口号是",
+    "field2": "外争主权",
+    "option_b": "还我青岛",
+    "option_c": "拒绝签字",
+    "option_d": "废除二十一条",
+    "id": 22
+  },
+  {
+    "question": "马拉松长跑源于哪场战争",
+    "field2": "希波战争",
+    "option_b": "伯罗奔尼撒",
+    "option_c": "特洛伊",
+    "option_d": "特洛伊",
+    "id": 23
+  },
+  {
+    "question": "一战中最惨烈的战役是",
+    "field2": "凡尔登",
+    "option_b": "索姆河",
+    "option_c": "马恩河",
+    "option_d": "坦能堡",
+    "id": 24
+  },
+  {
+    "question": "冷战开始的标志是",
+    "field2": "杜鲁门主义",
+    "option_b": "马歇尔计划",
+    "option_c": "北约成立",
+    "option_d": "柏林危机",
+    "id": 25
+  },
+  {
+    "question": "洋务运动的口号是",
+    "field2": "自强求富",
+    "option_b": "民主科学",
+    "option_c": "扶清灭洋",
+    "option_d": "师夷长技",
+    "id": 26
+  },
+  {
+    "question": "新文化运动的两大口号是",
+    "field2": "民主与科学",
+    "option_b": "自由与平等",
+    "option_c": "民族与民权",
+    "option_d": "法治与德治",
+    "id": 27
+  },
+  {
+    "question": "第一次世界大战爆发的导火索是",
+    "field2": "萨拉热窝",
+    "option_b": "凡尔登",
+    "option_c": "马恩河",
+    "option_d": "索姆河",
+    "id": 28
+  },
+  {
+    "question": "世界上最早纸币“交子”出现在",
+    "field2": "宋朝",
+    "option_b": "宋朝",
+    "option_c": "宋朝",
+    "option_d": "明朝",
+    "id": 29
+  },
+  {
+    "question": "辛亥革命推翻的制度是",
+    "field2": "君主专制",
+    "option_b": "封建土地制",
+    "option_c": "科举制",
+    "option_d": "分封制",
+    "id": 30
+  },
+  {
+    "question": "第一个不平等条约是",
+    "field2": "南京条约",
+    "option_b": "北京条约",
+    "option_c": "天津条约",
+    "option_d": "马关条约",
+    "id": 31
+  },
+  {
+    "question": "西欧封建制度的核心是",
+    "field2": "封君封臣",
+    "option_b": "城邦自治",
+    "option_c": "行会制度",
+    "option_d": "议会主权",
+    "id": 32
+  },
+  {
+    "question": "太平天国运动的纲领性文件是",
+    "field2": "天朝田亩制度",
+    "option_b": "资政新篇",
+    "option_c": "海国图志",
+    "option_d": "劝世良言",
+    "id": 33
+  },
+  {
+    "question": "文艺复兴的发源地是",
+    "field2": "意大利",
+    "option_b": "法国",
+    "option_c": "英国",
+    "option_d": "德国",
+    "id": 34
+  },
+  {
+    "question": "伊斯兰教兴起于",
+    "field2": "阿拉伯半岛",
+    "option_b": "波斯",
+    "option_c": "印度",
+    "option_d": "埃及",
+    "id": 35
+  },
+  {
+    "question": "工业革命开始的标志是",
+    "field2": "蒸汽机",
+    "option_b": "纺纱机",
+    "option_c": "铁路",
+    "option_d": "电力",
+    "id": 36
+  },
+  {
+    "question": "戊戌变法发生在",
+    "field2": "1898年",
+    "option_b": "1895年",
+    "option_c": "1900年",
+    "option_d": "1911年",
+    "id": 37
+  },
+  {
+    "question": "二战全面爆发的标志是",
+    "field2": "德军入侵波兰",
+    "option_b": "珍珠港",
+    "option_c": "斯大林格勒",
+    "option_d": "诺曼底",
+    "id": 38
+  },
+  {
+    "question": "秦统一后通行全国的标准文字是",
+    "field2": "小篆",
+    "option_b": "隶书",
+    "option_c": "楷书",
+    "option_d": "行书",
+    "id": 39
+  },
+  {
+    "question": "英国资产阶级革命开始的标志是",
+    "field2": "长期议会",
+    "option_b": "内战爆发",
+    "option_c": "光荣革命",
+    "option_d": "权利法案",
+    "id": 40
+  },
+  {
+    "question": "穆罕默德建立的政教合一政权首都在",
+    "field2": "麦地那",
+    "option_b": "麦加",
+    "option_c": "大马士革",
+    "option_d": "巴格达",
+    "id": 41
+  },
+  {
+    "question": "中国近代史的开端是",
+    "field2": "鸦片战争",
+    "option_b": "甲午战争",
+    "option_c": "八国联军侵华",
+    "option_d": "辛亥革命",
+    "id": 42
+  },
+  {
+    "question": "哥伦布远航的出发地是",
+    "field2": "西班牙",
+    "option_b": "葡萄牙",
+    "option_c": "意大利",
+    "option_d": "英国",
+    "id": 43
+  },
+  {
+    "question": "罗马法的基础法典是",
+    "field2": "十二铜表法",
+    "option_b": "查士丁尼法典",
+    "option_c": "汉谟拉比",
+    "option_d": "摩奴法典",
+    "id": 44
+  },
+  {
+    "question": "发现美洲大陆的是",
+    "field2": "哥伦布",
+    "option_b": "达·伽马",
+    "option_c": "麦哲伦",
+    "option_d": "迪亚士",
+    "id": 45
+  },
+  {
+    "question": "文艺复兴发源地是",
+    "field2": "意大利",
+    "option_b": "法国",
+    "option_c": "英国",
+    "option_d": "德国",
+    "id": 46
+  },
+  {
+    "question": "十月革命发生在",
+    "field2": "1917年",
+    "option_b": "1905年",
+    "option_c": "1922年",
+    "option_d": "1933年",
+    "id": 47
+  },
+  {
+    "question": "五四运动的直接导火索是",
+    "field2": "巴黎和会",
+    "option_b": "二十一条",
+    "option_c": "甲午战败",
+    "option_d": "袁世凯称帝",
+    "id": 48
+  },
+  {
+    "question": "罗马进入帝国时期的标志是",
+    "field2": "屋大维",
+    "option_b": "凯撒",
+    "option_c": "庞培",
+    "option_d": "克拉苏",
+    "id": 49
+  },
+  {
+    "question": "诺曼底登陆开辟了",
+    "field2": "第二战场",
+    "option_b": "北非战场",
+    "option_c": "太平洋战场",
+    "option_d": "北极航线",
+    "id": 50
+  },
+  {
+    "question": "英国确立君主立宪制的标志是",
+    "field2": "权利法案",
+    "option_b": "大宪章",
+    "option_c": "王位继承法",
+    "option_d": "内阁制形成",
+    "id": 51
+  },
+  {
+    "question": "欧盟成立年份是",
+    "field2": "1993年",
+    "option_b": "1957年",
+    "option_c": "1968年",
+    "option_d": "2004年",
+    "id": 52
+  },
+  {
+    "question": "俄国十月革命发生在",
+    "field2": "1917年",
+    "option_b": "1905年",
+    "option_c": "1918年",
+    "option_d": "1922年",
+    "id": 53
+  },
+  {
+    "question": "文艺复兴的核心思想是",
+    "field2": "人文主义",
+    "option_b": "神权至上",
+    "option_c": "理性主义",
+    "option_d": "经验主义",
+    "id": 54
+  },
+  {
+    "question": "太平天国纲领性文件是",
+    "field2": "天朝田亩制度",
+    "option_b": "资政新篇",
+    "option_c": "海国图志",
+    "option_d": "劝世良言",
+    "id": 55
+  },
+  {
+    "question": "文明古国中位于两河流域的是",
+    "field2": "古巴比伦",
+    "option_b": "古埃及",
+    "option_c": "古印度",
+    "option_d": "古中国",
+    "id": 56
+  },
+  {
+    "question": "奠定都江堰灌溉体系的关键人物是",
+    "field2": "李冰",
+    "option_b": "郑国",
+    "option_c": "王景",
+    "option_d": "大禹",
+    "id": 57
+  },
+  {
+    "question": "戊戌变法发生在",
+    "field2": "1898年",
+    "option_b": "1898年",
+    "option_c": "1900年",
+    "option_d": "1911年",
+    "id": 58
+  },
+  {
+    "question": "中国近代史的开端是",
+    "field2": "鸦片战争",
+    "option_b": "甲午战争",
+    "option_c": "八国联军侵华",
+    "option_d": "辛亥革命",
+    "id": 59
+  },
+  {
+    "question": "洋务运动的口号是",
+    "field2": "自强求富",
+    "option_b": "民主科学",
+    "option_c": "扶清灭洋",
+    "option_d": "师夷长技",
+    "id": 60
+  },
+  {
+    "question": "奠定三国鼎立基础的战役是",
+    "field2": "赤壁之战",
+    "option_b": "官渡之战",
+    "option_c": "淝水之战",
+    "option_d": "长平之战",
+    "id": 61
+  },
+  {
+    "question": "第一次世界大战爆发于",
+    "field2": "1914年",
+    "option_b": "1918年",
+    "option_c": "1939年",
+    "option_d": "1945年",
+    "id": 62
+  },
+  {
+    "question": "秦始皇统一六国完成于",
+    "field2": "公元前221年",
+    "option_b": "公元前202年",
+    "option_c": "公元25年",
+    "option_d": "公元前207年",
+    "id": 63
+  },
+  {
+    "question": "佛教的创始人是",
+    "field2": "释迦牟尼",
+    "option_b": "耶稣",
+    "option_c": "穆罕默德",
+    "option_d": "孔子",
+    "id": 64
+  },
+  {
+    "question": "我国最早有文字可考的朝代是",
+    "field2": "商朝",
+    "option_b": "夏朝",
+    "option_c": "西周",
+    "option_d": "东周",
+    "id": 65
+  },
+  {
+    "question": "巴黎公社成立于",
+    "field2": "1871年",
+    "option_b": "1848年",
+    "option_c": "1870年",
+    "option_d": "1917年",
+    "id": 66
+  },
+  {
+    "question": "中国共产党成立于",
+    "field2": "1921年",
+    "option_b": "1919年",
+    "option_c": "1927年",
+    "option_d": "1949年",
+    "id": 67
+  },
+  {
+    "question": "联合国成立于",
+    "field2": "1945年",
+    "option_b": "1919年",
+    "option_c": "1920年",
+    "option_d": "1949年",
+    "id": 68
+  },
+  {
+    "question": "新文化运动的两面大旗是",
+    "field2": "民主与科学",
+    "option_b": "自由与平等",
+    "option_c": "民族与民权",
+    "option_d": "法治与德治",
+    "id": 69
+  },
+  {
+    "question": "美国《独立宣言》起草人是",
+    "field2": "杰斐逊",
+    "option_b": "华盛顿",
+    "option_c": "富兰克林",
+    "option_d": "汉密尔顿",
+    "id": 70
+  },
+  {
+    "question": "古埃及文明的象征性建筑是",
+    "field2": "金字塔",
+    "option_b": "帕特农",
+    "option_c": "斗兽场",
+    "option_d": "长城",
+    "id": 71
+  },
+  {
+    "question": "联合国成立于",
+    "field2": "1945年",
+    "option_b": "1919年",
+    "option_c": "1920年",
+    "option_d": "1949年",
+    "id": 72
+  },
+  {
+    "question": "修筑长城主要防御的北方民族是",
+    "field2": "匈奴",
+    "option_b": "鲜卑",
+    "option_c": "突厥",
+    "option_d": "蒙古",
+    "id": 73
+  },
+  {
+    "question": "基督教的诞生地是",
+    "field2": "巴勒斯坦",
+    "option_b": "麦加",
+    "option_c": "罗马",
+    "option_d": "雅典",
+    "id": 74
+  },
+  {
+    "question": "但丁的代表作是",
+    "field2": "神曲",
+    "option_b": "十日谈",
+    "option_c": "失乐园",
+    "option_d": "李尔王",
+    "id": 75
+  },
+  {
+    "question": "马克思主义诞生的标志是",
+    "field2": "共产党宣言",
+    "option_b": "资本论",
+    "option_c": "巴黎公社",
+    "option_d": "第一国际",
+    "id": 76
+  },
+  {
+    "question": "亚历山大大帝的老师",
+    "field2": "亚里士多德",
+    "option_b": "柏拉图",
+    "option_c": "苏格拉底",
+    "option_d": "伊索克拉底",
+    "id": 77
+  },
+  {
+    "question": "打响武装反抗国民党第一枪的是",
+    "field2": "南昌起义",
+    "option_b": "秋收起义",
+    "option_c": "广州起义",
+    "option_d": "百色起义",
+    "id": 78
+  },
+  {
+    "question": "古希腊城邦的典型政体是",
+    "field2": "民主制",
+    "option_b": "君主制",
+    "option_c": "君主制",
+    "option_d": "寡头制",
+    "id": 79
+  }
+]

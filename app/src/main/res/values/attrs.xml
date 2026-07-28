@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DotView">
+        <attr name="dotColor" format="color"/>
+        <attr name="dotRadius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="DraggableBallView">
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="StrokeTextView">
+        <attr name="st_strokeColor" format="color" />
+        <attr name="st_strokeSize" format="integer" />
+    </declare-styleable>
+</resources>

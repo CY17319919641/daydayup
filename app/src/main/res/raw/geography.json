@@ -1,0 +1,642 @@
+[
+  {
+    "question": "一年中北半球陆地月平均气温最高值一般在",
+    "option_a": "7月",
+    "option_b": "8月",
+    "option_c": "6月",
+    "option_d": "1月",
+    "id": 1
+  },
+  {
+    "question": "我国水能资源最丰富的地区是",
+    "option_a": "西南地区",
+    "option_b": "华北平原",
+    "option_c": "东北平原",
+    "option_d": "内蒙古高原",
+    "id": 2
+  },
+  {
+    "question": "北温带与北寒带的分界线是",
+    "option_a": "北极圈",
+    "option_b": "北回归线",
+    "option_c": "赤道",
+    "option_d": "南极圈",
+    "id": 3
+  },
+  {
+    "question": "河流入海口常见的地貌是",
+    "option_a": "三角洲",
+    "option_b": "冲积扇",
+    "option_c": "河漫滩",
+    "option_d": "峡谷",
+    "id": 4
+  },
+  {
+    "question": "我国冬季盛行的主要季风是",
+    "option_a": "西北季风",
+    "option_b": "东南季风",
+    "option_c": "西南季风",
+    "option_d": "东北季风",
+    "id": 5
+  },
+  {
+    "question": "我国少数民族分布最多的省级行政区是",
+    "option_a": "云南省",
+    "option_b": "广西壮族自治区",
+    "option_c": "贵州省",
+    "option_d": "四川省",
+    "id": 6
+  },
+  {
+    "question": "我国太阳能资源最丰富的地区是",
+    "option_a": "青藏高原",
+    "option_b": "四川盆地",
+    "option_c": "华北平原",
+    "option_d": "东北平原",
+    "id": 7
+  },
+  {
+    "question": "世界上火山地震最集中的地带是",
+    "option_a": "环太平洋带与地中海—喜马拉雅带",
+    "option_b": "赤道带",
+    "option_c": "中纬度内陆",
+    "option_d": "极地带",
+    "id": 8
+  },
+  {
+    "question": "比例尺越大，表示的范围越",
+    "option_a": "小",
+    "option_b": "大",
+    "option_c": "不变",
+    "option_d": "随机",
+    "id": 9
+  },
+  {
+    "question": "板块碰撞挤压常形成",
+    "option_a": "山脉或海沟",
+    "option_b": "裂谷",
+    "option_c": "平原",
+    "option_d": "湖泊",
+    "id": 10
+  },
+  {
+    "question": "暖锋过境时常出现的天气是",
+    "option_a": "连续性降水或雾",
+    "option_b": "雷阵雨",
+    "option_c": "沙尘暴",
+    "option_d": "寒潮",
+    "id": 11
+  },
+  {
+    "question": "一天中陆地最高气温通常出现在",
+    "option_a": "14时左右",
+    "option_b": "正午",
+    "option_c": "日出",
+    "option_d": "日落",
+    "id": 12
+  },
+  {
+    "question": "世界人口自然增长率最低的大洲是",
+    "option_a": "欧洲",
+    "option_b": "北美洲",
+    "option_c": "大洋洲",
+    "option_d": "亚洲",
+    "id": 13
+  },
+  {
+    "question": "一年中北半球陆地月平均气温最低值一般在",
+    "option_a": "1月",
+    "option_b": "2月",
+    "option_c": "12月",
+    "option_d": "7月",
+    "id": 14
+  },
+  {
+    "question": "冷锋过境时常出现的天气是",
+    "option_a": "大风、降温、雨雪",
+    "option_b": "持续高温",
+    "option_c": "长时间晴朗",
+    "option_d": "台风暴雨",
+    "id": 15
+  },
+  {
+    "question": "千岛寒流对东亚沿岸气候的影响是",
+    "option_a": "降温减湿",
+    "option_b": "增温增湿",
+    "option_c": "增温减湿",
+    "option_d": "降温增湿",
+    "id": 16
+  },
+  {
+    "question": "外力作用中，石灰岩地区常见的地貌是",
+    "option_a": "喀斯特地貌",
+    "option_b": "丹霞地貌",
+    "option_c": "雅丹地貌",
+    "option_d": "风蚀蘑菇",
+    "id": 17
+  },
+  {
+    "question": "中纬度大陆西岸常见的气候类型是",
+    "option_a": "温带海洋性气候",
+    "option_b": "温带季风气候",
+    "option_c": "热带沙漠气候",
+    "option_d": "地中海气候",
+    "id": 18
+  },
+  {
+    "question": "本初子午线的经度是",
+    "option_a": "0°",
+    "option_b": "90°E",
+    "option_c": "180°",
+    "option_d": "90°W",
+    "id": 19
+  },
+  {
+    "question": "长江被称为“水能宝库”的河段主要在",
+    "option_a": "上游",
+    "option_b": "中游",
+    "option_c": "下游",
+    "option_d": "河口",
+    "id": 20
+  },
+  {
+    "question": "热带与温带的分界线是",
+    "option_a": "回归线",
+    "option_b": "极圈",
+    "option_c": "赤道",
+    "option_d": "本初子午线",
+    "id": 21
+  },
+  {
+    "question": "世界面积最大的洋是",
+    "option_a": "太平洋",
+    "option_b": "大西洋",
+    "option_c": "印度洋",
+    "option_d": "北冰洋",
+    "id": 22
+  },
+  {
+    "question": "河流上游常见的地貌是",
+    "option_a": "V形谷",
+    "option_b": "冲积扇",
+    "option_c": "三角洲",
+    "option_d": "河漫滩",
+    "id": 23
+  },
+  {
+    "question": "地球上产生四季更替的主要原因是",
+    "option_a": "地轴倾斜且公转",
+    "option_b": "地球自转",
+    "option_c": "海陆分布",
+    "option_d": "距日远近",
+    "id": 24
+  },
+  {
+    "question": "潮汐现象的主要成因是",
+    "option_a": "月球和太阳引力",
+    "option_b": "地球自转",
+    "option_c": "海底地形",
+    "option_d": "风向变化",
+    "id": 25
+  },
+  {
+    "question": "地图的三要素是",
+    "option_a": "比例尺、方向、图例",
+    "option_b": "颜色、符号、标题",
+    "option_c": "比例尺、坐标、注记",
+    "option_d": "纸张、尺寸、比例",
+    "id": 26
+  },
+  {
+    "question": "地球上产生昼夜更替的主要原因是",
+    "option_a": "地球自转",
+    "option_b": "地球公转",
+    "option_c": "地轴倾斜",
+    "option_d": "月球绕地",
+    "id": 27
+  },
+  {
+    "question": "我国水能资源最丰富的河流是",
+    "option_a": "长江",
+    "option_b": "黄河",
+    "option_c": "雅鲁藏布江",
+    "option_d": "松花江",
+    "id": 28
+  },
+  {
+    "question": "波浪的主要能量来源是",
+    "option_a": "风",
+    "option_b": "月球引力",
+    "option_c": "海底地震",
+    "option_d": "太阳辐射",
+    "id": 29
+  },
+  {
+    "question": "我国“三大平原”不包括",
+    "option_a": "关中平原",
+    "option_b": "东北平原",
+    "option_c": "华北平原",
+    "option_d": "长江中下游平原",
+    "id": 30
+  },
+  {
+    "question": "外力作用中，流水对地表塑造的典型形态是",
+    "option_a": "河谷与冲积平原",
+    "option_b": "沙丘",
+    "option_c": "冰斗",
+    "option_d": "角峰",
+    "id": 31
+  },
+  {
+    "question": "形成降水的基本条件不包括",
+    "option_a": "强风",
+    "option_b": "充足水汽",
+    "option_c": "凝结核",
+    "option_d": "上升冷却",
+    "id": 32
+  },
+  {
+    "question": "赤道附近的主要降水类型是",
+    "option_a": "对流雨",
+    "option_b": "锋面雨",
+    "option_c": "地形雨",
+    "option_d": "台风雨",
+    "id": 33
+  },
+  {
+    "question": "我国面积最大的省级行政区是",
+    "option_a": "新疆维吾尔自治区",
+    "option_b": "西藏自治区",
+    "option_c": "内蒙古自治区",
+    "option_d": "青海省",
+    "id": 34
+  },
+  {
+    "question": "世界面积最小的大洋是",
+    "option_a": "北冰洋",
+    "option_b": "印度洋",
+    "option_c": "大西洋",
+    "option_d": "太平洋",
+    "id": 35
+  },
+  {
+    "question": "我国含沙量最大的河流是",
+    "option_a": "黄河",
+    "option_b": "长江",
+    "option_c": "珠江",
+    "option_d": "海河",
+    "id": 36
+  },
+  {
+    "question": "热带雨林气候主要分布在",
+    "option_a": "赤道附近",
+    "option_b": "回归线附近",
+    "option_c": "中纬度内陆",
+    "option_d": "极地附近",
+    "id": 37
+  },
+  {
+    "question": "世界面积最大的洲是",
+    "option_a": "亚洲",
+    "option_b": "非洲",
+    "option_c": "北美洲",
+    "option_d": "南美洲",
+    "id": 38
+  },
+  {
+    "question": "日本暖流对东亚沿岸气候的影响是",
+    "option_a": "增温增湿",
+    "option_b": "降温减湿",
+    "option_c": "增温减湿",
+    "option_d": "降温增湿",
+    "id": 39
+  },
+  {
+    "question": "我国冬季最冷的地区是",
+    "option_a": "漠河",
+    "option_b": "哈尔滨",
+    "option_c": "乌鲁木齐",
+    "option_d": "拉萨",
+    "id": 40
+  },
+  {
+    "question": "温带季风气候主要分布在",
+    "option_a": "东亚",
+    "option_b": "西欧",
+    "option_c": "北美中部",
+    "option_d": "南美东部",
+    "id": 41
+  },
+  {
+    "question": "我国风能资源最丰富的地区是",
+    "option_a": "西北内陆与沿海",
+    "option_b": "四川盆地",
+    "option_c": "云贵高原",
+    "option_d": "华北平原",
+    "id": 42
+  },
+  {
+    "question": "世界上人口最多的大洲是",
+    "option_a": "亚洲",
+    "option_b": "非洲",
+    "option_c": "欧洲",
+    "option_d": "北美洲",
+    "id": 43
+  },
+  {
+    "question": "一天中陆地最低气温通常出现在",
+    "option_a": "日出前后",
+    "option_b": "正午",
+    "option_c": "午后",
+    "option_d": "子夜",
+    "id": 44
+  },
+  {
+    "question": "卫星云图上白色区域通常表示",
+    "option_a": "云雨区",
+    "option_b": "陆地",
+    "option_c": "海洋",
+    "option_d": "沙漠",
+    "id": 45
+  },
+  {
+    "question": "黄河下游“地上河”形成的主要原因是",
+    "option_a": "泥沙淤积抬高河床",
+    "option_b": "地壳上升",
+    "option_c": "海面上升",
+    "option_d": "强风堆积",
+    "id": 46
+  },
+  {
+    "question": "分层设色地形图中，绿色一般表示",
+    "option_a": "平原",
+    "option_b": "山地",
+    "option_c": "沙漠",
+    "option_d": "冰川",
+    "id": 47
+  },
+  {
+    "question": "我国夏季最热的地区是",
+    "option_a": "吐鲁番盆地",
+    "option_b": "南京",
+    "option_c": "武汉",
+    "option_d": "重庆",
+    "id": 48
+  },
+  {
+    "question": "地中海气候的显著特征是",
+    "option_a": "夏季炎热干燥、冬季温和多雨",
+    "option_b": "全年高温多雨",
+    "option_c": "全年温和湿润",
+    "option_d": "夏季高温多雨",
+    "id": 49
+  },
+  {
+    "question": "我国最大的咸水湖是",
+    "option_a": "青海湖",
+    "option_b": "纳木错",
+    "option_c": "色林错",
+    "option_d": "博斯腾湖",
+    "id": 50
+  },
+  {
+    "question": "迎风坡降水通常比背风坡",
+    "option_a": "多",
+    "option_b": "少",
+    "option_c": "相等",
+    "option_d": "无规律",
+    "id": 51
+  },
+  {
+    "question": "地理信息系统主要用于",
+    "option_a": "空间数据管理与分析",
+    "option_b": "文字处理",
+    "option_c": "数值计算",
+    "option_d": "图像编辑",
+    "id": 52
+  },
+  {
+    "question": "外力作用中，冰川对地表塑造的典型形态是",
+    "option_a": "U形谷与角峰",
+    "option_b": "冲积扇",
+    "option_c": "喀斯特峰林",
+    "option_d": "海蚀崖",
+    "id": 53
+  },
+  {
+    "question": "全球定位系统主要用于",
+    "option_a": "定位与导航",
+    "option_b": "气象预报",
+    "option_c": "资源勘探",
+    "option_d": "环境监测",
+    "id": 54
+  },
+  {
+    "question": "世界城市化水平最高的大洲是",
+    "option_a": "欧洲",
+    "option_b": "北美洲",
+    "option_c": "大洋洲",
+    "option_d": "亚洲",
+    "id": 55
+  },
+  {
+    "question": "地球自转一周的时间约为",
+    "option_a": "24小时",
+    "option_b": "12小时",
+    "option_c": "30天",
+    "option_d": "365天",
+    "id": 56
+  },
+  {
+    "question": "世界面积最小的大洲是",
+    "option_a": "大洋洲",
+    "option_b": "欧洲",
+    "option_c": "南极洲",
+    "option_d": "南美洲",
+    "id": 57
+  },
+  {
+    "question": "我国最长的河流是",
+    "option_a": "长江",
+    "option_b": "黄河",
+    "option_c": "珠江",
+    "option_d": "淮河",
+    "id": 58
+  },
+  {
+    "question": "我国最大的淡水湖是",
+    "option_a": "鄱阳湖",
+    "option_b": "洞庭湖",
+    "option_c": "太湖",
+    "option_d": "洪泽湖",
+    "id": 59
+  },
+  {
+    "question": "经线的形状是",
+    "option_a": "半圆",
+    "option_b": "圆圈",
+    "option_c": "直线",
+    "option_d": "弧线",
+    "id": 60
+  },
+  {
+    "question": "等高线密集表示坡度",
+    "option_a": "陡",
+    "option_b": "缓",
+    "option_c": "平坦",
+    "option_d": "起伏小",
+    "id": 61
+  },
+  {
+    "question": "海水盐度最高的海域通常是",
+    "option_a": "副热带海域",
+    "option_b": "赤道海域",
+    "option_c": "高纬海域",
+    "option_d": "河口海域",
+    "id": 62
+  },
+  {
+    "question": "世界上使用人数最多的语言是",
+    "option_a": "汉语",
+    "option_b": "英语",
+    "option_c": "西班牙语",
+    "option_d": "阿拉伯语",
+    "id": 63
+  },
+  {
+    "question": "世界人口自然增长率最高的大洲是",
+    "option_a": "非洲",
+    "option_b": "亚洲",
+    "option_c": "拉丁美洲",
+    "option_d": "欧洲",
+    "id": 64
+  },
+  {
+    "question": "我国夏季盛行的主要季风是",
+    "option_a": "东南季风",
+    "option_b": "西北季风",
+    "option_c": "西南季风",
+    "option_d": "东北季风",
+    "id": 65
+  },
+  {
+    "question": "外力作用中，风力对地表塑造的典型形态是",
+    "option_a": "沙丘与风蚀地貌",
+    "option_b": "溶洞",
+    "option_c": "冰碛丘陵",
+    "option_d": "峡湾",
+    "id": 66
+  },
+  {
+    "question": "东、西半球的分界线是",
+    "option_a": "20°W与160°E",
+    "option_b": "0°与180°",
+    "option_c": "赤道",
+    "option_d": "回归线",
+    "id": 67
+  },
+  {
+    "question": "秦岭—淮河线以北的主要粮食作物是",
+    "option_a": "小麦",
+    "option_b": "水稻",
+    "option_c": "甘蔗",
+    "option_d": "棉花",
+    "id": 68
+  },
+  {
+    "question": "秦岭—淮河线以南的主要耕地类型是",
+    "option_a": "水田",
+    "option_b": "旱地",
+    "option_c": "草地",
+    "option_d": "林地",
+    "id": 69
+  },
+  {
+    "question": "纬线的形状是",
+    "option_a": "圆圈",
+    "option_b": "半圆",
+    "option_c": "直线",
+    "option_d": "螺旋线",
+    "id": 70
+  },
+  {
+    "question": "世界上使用范围最广的语言是",
+    "option_a": "英语",
+    "option_b": "汉语",
+    "option_c": "法语",
+    "option_d": "西班牙语",
+    "id": 71
+  },
+  {
+    "question": "我国人口最多的省级行政区是",
+    "option_a": "广东省",
+    "option_b": "山东省",
+    "option_c": "河南省",
+    "option_d": "四川省",
+    "id": 72
+  },
+  {
+    "question": "海拔每升高1000米，气温一般下降约",
+    "option_a": "6℃",
+    "option_b": "3℃",
+    "option_c": "10℃",
+    "option_d": "1℃",
+    "id": 73
+  },
+  {
+    "question": "世界上发达国家最集中的地区是",
+    "option_a": "欧洲西部",
+    "option_b": "北美洲",
+    "option_c": "东亚",
+    "option_d": "东南亚",
+    "id": 74
+  },
+  {
+    "question": "河流中下游常见的地貌是",
+    "option_a": "冲积平原与河漫滩",
+    "option_b": "V形谷",
+    "option_c": "冰蚀谷",
+    "option_d": "风蚀洼地",
+    "id": 75
+  },
+  {
+    "question": "板块构造学说认为，板块张裂常形成",
+    "option_a": "裂谷或海洋",
+    "option_b": "高大山脉",
+    "option_c": "海沟",
+    "option_d": "岛弧",
+    "id": 76
+  },
+  {
+    "question": "洋流按成因可分为风海流、密度流和",
+    "option_a": "补偿流",
+    "option_b": "暖流",
+    "option_c": "寒流",
+    "option_d": "赤道流",
+    "id": 77
+  },
+  {
+    "question": "我国“四大盆地”中海拔最高的是",
+    "option_a": "柴达木盆地",
+    "option_b": "塔里木盆地",
+    "option_c": "准噶尔盆地",
+    "option_d": "四川盆地",
+    "id": 78
+  },
+  {
+    "question": "秦岭—淮河线大致与哪条等降水量线接近",
+    "option_a": "800毫米",
+    "option_b": "400毫米",
+    "option_c": "200毫米",
+    "option_d": "1600毫米",
+    "id": 79
+  },
+  {
+    "question": "世界城市化进程最快的大洲是",
+    "option_a": "非洲",
+    "option_b": "欧洲",
+    "option_c": "北美洲",
+    "option_d": "大洋洲",
+    "id": 80
+  }
+]

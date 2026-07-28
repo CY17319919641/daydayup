@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".animation.AnimationActivity"
+    android:background="@mipmap/bg_animation_in">
+
+
+    <TextView
+        android:id="@+id/animation1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="@dimen/dp_20"
+        android:background="@mipmap/squre_p"
+        android:fontFamily="@font/font_144"
+        android:gravity="center"
+        android:text="3个 80度"
+        android:textColor="@color/white"
+        android:textSize="@dimen/dp_12"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="@dimen/dp_20"/>
+
+    <TextView
+        android:id="@+id/animation2"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/squre_p"
+        android:fontFamily="@font/font_144"
+        android:gravity="center"
+        android:text="3个 60度"
+        android:textColor="@color/white"
+        android:textSize="@dimen/dp_12"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/animation1" />
+
+    <TextView
+        android:id="@+id/animation3"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/squre_p"
+        android:fontFamily="@font/font_144"
+        android:gravity="center"
+        android:text="6个 60度"
+        android:textColor="@color/white"
+        android:textSize="@dimen/dp_12"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/animation2"
+        android:layout_marginEnd="@dimen/dp_20"/>
+
+    <TextView
+        android:id="@+id/end"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@mipmap/squre_p"
+        android:fontFamily="@font/font_144"
+        android:gravity="center"
+        android:text="目标位置"
+        android:textColor="@color/white"
+        android:textSize="@dimen/dp_12"
+        app:layout_constraintBottom_toTopOf="@+id/start"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/start"
+        android:layout_width="@dimen/dp_50"
+        android:layout_height="@dimen/dp_50"
+        android:src="@drawable/ic_icon"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.65"/>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

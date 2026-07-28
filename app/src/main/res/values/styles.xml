@@ -1,0 +1,7 @@
+<resources>
+    <!-- 有动画的 Dialog 样式（可选，如果已有可忽略） -->
+    <style name="DialogWithAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+</resources>

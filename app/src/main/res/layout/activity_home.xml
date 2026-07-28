@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".module_page.HomeActivity"
+    android:background="@mipmap/bg_home">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:id="@+id/go_animation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/bg_main_item"
+                android:text="动画效果展示"
+                android:fontFamily="@font/font_144"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dp_20"
+                android:layout_marginTop="@dimen/dp_30"
+                />
+            <TextView
+                android:id="@+id/go_viewpager"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/bg_main_item"
+                android:text="viewpager"
+                android:fontFamily="@font/font_144"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dp_20"
+                android:layout_marginTop="@dimen/dp_30"
+                />
+            <TextView
+                android:id="@+id/go_customview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/bg_main_item"
+                android:text="CustomView"
+                android:fontFamily="@font/font_144"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dp_20"
+                android:layout_marginTop="@dimen/dp_30"
+                />
+
+            <TextView
+                android:id="@+id/go_waterfall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/bg_main_item"
+                android:text="RecyclerView + StaggeredGridLayoutManager 瀑布流"
+                android:fontFamily="@font/font_144"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dp_18"
+                android:layout_marginTop="@dimen/dp_30"
+                android:layout_marginStart="@dimen/dp_10"
+                android:layout_marginEnd="@dimen/dp_10"
+                />
+
+            <TextView
+                android:id="@+id/go_fragment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/bg_main_item"
+                android:text="fragment"
+                android:fontFamily="@font/font_144"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dp_18"
+                android:layout_marginTop="@dimen/dp_30"
+                android:layout_marginStart="@dimen/dp_10"
+                android:layout_marginEnd="@dimen/dp_10"
+                />
+
+        </LinearLayout>
+
+
+
+
+
+
+
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

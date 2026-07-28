@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="14dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Home Fragment：入口页"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnOpenDetailByReplace"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="1) replace 打开 Detail（加入返回栈）" />
+
+        <Button
+            android:id="@+id/btnOpenToolsByAdd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="2) add + hide 打开 Tools（加入返回栈）" />
+
+        <Button
+            android:id="@+id/btnIncreaseCounter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="3) SharedViewModel 计数 +1" />
+
+        <Button
+            android:id="@+id/btnShowTips"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="4) 打开 DialogFragment 技巧弹窗" />
+
+        <EditText
+            android:id="@+id/etDraft"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:hint="输入要发给 Activity 的消息" />
+
+        <Button
+            android:id="@+id/btnSendActivityMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="5) Fragment -> Activity 发消息" />
+
+        <TextView
+            android:id="@+id/tvSharedCounter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="共享计数器：0"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tvSharedName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="最近一次编辑姓名：未命名"
+            android:textSize="15sp" />
+    </LinearLayout>
+</ScrollView>

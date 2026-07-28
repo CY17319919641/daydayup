@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".module_page.CustomViewActivity">
+
+    <com.daydayup.view.ColorBlockView
+        android:id="@+id/view1"
+        android:layout_width="@dimen/dp_70"
+        android:layout_height="@dimen/dp_40"
+        android:layout_marginStart="@dimen/dp_16"
+        android:layout_marginTop="@dimen/dp_16"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.daydayup.view.ColorBlockRoundCornerView
+        android:id="@+id/view2"
+        android:layout_width="@dimen/dp_70"
+        android:layout_height="@dimen/dp_40"
+        app:layout_constraintStart_toEndOf="@+id/view1"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="@dimen/dp_16"
+        android:layout_marginStart="@dimen/dp_20"
+        />
+
+    <com.daydayup.view.DotView
+        android:id="@+id/view3"
+        android:layout_width="@dimen/dp_50"
+        android:layout_height="@dimen/dp_50"
+        app:layout_constraintStart_toEndOf="@id/view2"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="@dimen/dp_16"
+        app:dotColor="#FFA44E"
+        android:padding="@dimen/dp_0"
+        app:dotRadius="@dimen/dp_20"
+        android:layout_marginStart="@dimen/dp_30"
+        />
+    <com.daydayup.view.SimpleProgressView
+        android:id="@+id/view4"
+        android:layout_width="@dimen/dp_150"
+        android:layout_height="@dimen/dp_15"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/view1"
+        android:layout_marginStart="@dimen/dp_10"
+        android:layout_marginTop="@dimen/dp_10"
+        />
+
+    <com.daydayup.view.DraggableBallView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="44dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:radius="@dimen/dp_10" />
+
+    <com.daydayup.view.SimpleRowLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view4">
+
+        <TextView
+            android:layout_width="@dimen/dp_20"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:gravity="center"
+            android:textSize="@dimen/sp_15"
+            android:text="A" />
+
+        <TextView
+            android:layout_width="@dimen/dp_20"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:gravity="center"
+            android:textSize="@dimen/sp_15"
+            android:text="B" />
+    </com.daydayup.view.SimpleRowLayout>
+
+    <com.daydayup.view.StrokeTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="描边字体"
+        android:textColor="@color/black"
+        android:textSize="@dimen/sp_20"
+        app:layout_constraintTop_toBottomOf="@+id/view3"
+        app:layout_constraintStart_toStartOf="@id/view3"
+        app:st_strokeColor="#31AC75"
+        app:st_strokeSize="5"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

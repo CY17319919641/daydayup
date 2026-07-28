@@ -1,0 +1,642 @@
+[
+  {
+    "question": "家用燃气泄漏应",
+    "option_a": "关阀开窗撤离",
+    "option_b": "开灯查看",
+    "option_c": "点火试漏",
+    "option_d": "打电话报警",
+    "id": 1
+  },
+  {
+    "question": "大米淘洗次数过多会",
+    "option_a": "流失B族维生素",
+    "option_b": "更香",
+    "option_c": "更耐储存",
+    "option_d": "更软糯",
+    "id": 2
+  },
+  {
+    "question": "长时间用眼缓解疲劳宜",
+    "option_a": "看远处放松",
+    "option_b": "继续盯屏",
+    "option_c": "关灯用眼",
+    "option_d": "不眨眼",
+    "id": 3
+  },
+  {
+    "question": "社会学研究的核心对象是",
+    "option_a": "社会结构与互动",
+    "option_b": "天体运行",
+    "option_c": "化学反应",
+    "option_d": "基因遗传",
+    "id": 4
+  },
+  {
+    "question": "缓解轻度烫伤应",
+    "option_a": "流动冷水冲洗",
+    "option_b": "涂酱油",
+    "option_c": "冰敷",
+    "option_d": "刺破水泡",
+    "id": 5
+  },
+  {
+    "question": "骑自行车转弯应",
+    "option_a": "外侧脚下压",
+    "option_b": "内侧脚下压",
+    "option_c": "身体后仰",
+    "option_d": "直线加速",
+    "id": 6
+  },
+  {
+    "question": "机会成本的含义是",
+    "option_a": "放弃的最大收益",
+    "option_b": "实际支出",
+    "option_c": "固定成本",
+    "option_d": "变动成本",
+    "id": 7
+  },
+  {
+    "question": "家用插座更易引发火灾的是",
+    "option_a": "超负荷使用",
+    "option_b": "使用合格产品",
+    "option_c": "定期检修",
+    "option_d": "远离水源",
+    "id": 8
+  },
+  {
+    "question": "指南针能指南北是因为地球有",
+    "option_a": "磁场",
+    "option_b": "重力",
+    "option_c": "大气层",
+    "option_d": "阳光",
+    "id": 9
+  },
+  {
+    "question": "社会科学主要研究",
+    "option_a": "人类社会现象",
+    "option_b": "自然现象",
+    "option_c": "宇宙现象",
+    "option_d": "物理现象",
+    "id": 10
+  },
+  {
+    "question": "通货膨胀的直接表现是",
+    "option_a": "物价总水平持续上涨",
+    "option_b": "失业率上升",
+    "option_c": "出口增加",
+    "option_d": "投资下降",
+    "id": 11
+  },
+  {
+    "question": "微波炉加热金属会",
+    "option_a": "打火放电",
+    "option_b": "更快加热",
+    "option_c": "更省电",
+    "option_d": "无影响",
+    "id": 12
+  },
+  {
+    "question": "下列食物中富含蛋白质的是",
+    "option_a": "鸡蛋",
+    "option_b": "米饭",
+    "option_c": "苹果",
+    "option_d": "胡萝卜",
+    "id": 13
+  },
+  {
+    "question": "下列属于可再生能源的是",
+    "option_a": "太阳能",
+    "option_b": "煤炭",
+    "option_c": "石油",
+    "option_d": "天然气",
+    "id": 14
+  },
+  {
+    "question": "公共政策的基本属性是",
+    "option_a": "公共性",
+    "option_b": "营利性",
+    "option_c": "技术性",
+    "option_d": "随机性",
+    "id": 15
+  },
+  {
+    "question": "煮饺子时，怎样判断生熟",
+    "option_a": "浮起并鼓胀",
+    "option_b": "沉底不动",
+    "option_c": "皮色发白",
+    "option_d": "水剧烈翻滚",
+    "id": 16
+  },
+  {
+    "question": "社会分层的三大常用标准是",
+    "option_a": "财富、权力、声望",
+    "option_b": "身高、体重、年龄",
+    "option_c": "爱好、兴趣、性格",
+    "option_d": "天气、地理、季节",
+    "id": 17
+  },
+  {
+    "question": "科层制的核心特征是",
+    "option_a": "规则化与层级化",
+    "option_b": "随意性决策",
+    "option_c": "个人忠诚至上",
+    "option_d": "扁平化无规章",
+    "id": 18
+  },
+  {
+    "question": "社会角色失调不包括",
+    "option_a": "角色认同",
+    "option_b": "角色冲突",
+    "option_c": "角色不清",
+    "option_d": "角色中断",
+    "id": 19
+  },
+  {
+    "question": "下列动物属于哺乳动物的是",
+    "option_a": "鲸鱼",
+    "option_b": "青蛙",
+    "option_c": "蛇",
+    "option_d": "企鹅",
+    "id": 20
+  },
+  {
+    "question": "人体消化食物的主要器官是",
+    "option_a": "胃",
+    "option_b": "心脏",
+    "option_c": "肺",
+    "option_d": "大脑",
+    "id": 21
+  },
+  {
+    "question": "食品包装“SC”表示",
+    "option_a": "食品生产许可",
+    "option_b": "有机食品",
+    "option_c": "绿色认证",
+    "option_d": "出口认证",
+    "id": 22
+  },
+  {
+    "question": "选购包装食品应优先看",
+    "option_a": "配料表与营养成分",
+    "option_b": "广告语",
+    "option_c": "包装颜色",
+    "option_d": "价格高低",
+    "id": 23
+  },
+  {
+    "question": "运动后肌肉酸痛应",
+    "option_a": "轻度活动放松",
+    "option_b": "立刻停止不动",
+    "option_c": "马上热水泡",
+    "option_d": "大量饮酒",
+    "id": 24
+  },
+  {
+    "question": "宪法的地位是",
+    "option_a": "根本法",
+    "option_b": "普通法",
+    "option_c": "行政法规",
+    "option_d": "地方法规",
+    "id": 25
+  },
+  {
+    "question": "磁铁同极靠近时会",
+    "option_a": "相互排斥",
+    "option_b": "相互吸引",
+    "option_c": "没有反应",
+    "option_d": "先吸后斥",
+    "id": 26
+  },
+  {
+    "question": "社会控制的手段不包括",
+    "option_a": "市场",
+    "option_b": "法律",
+    "option_c": "道德",
+    "option_d": "舆论",
+    "id": 27
+  },
+  {
+    "question": "人体最坚硬的组织是",
+    "option_a": "牙釉质",
+    "option_b": "骨骼",
+    "option_c": "指甲",
+    "option_d": "软骨",
+    "id": 28
+  },
+  {
+    "question": "下列物体中属于导体的是",
+    "option_a": "铁钉",
+    "option_b": "塑料尺",
+    "option_c": "橡皮",
+    "option_d": "木棒",
+    "id": 29
+  },
+  {
+    "question": "社会变迁的根本动力是",
+    "option_a": "生产力发展",
+    "option_b": "人口增减",
+    "option_c": "气候变化",
+    "option_d": "时尚流行",
+    "id": 30
+  },
+  {
+    "question": "太阳能热水器利用",
+    "option_a": "太阳辐射",
+    "option_b": "地热",
+    "option_c": "核能",
+    "option_d": "风能",
+    "id": 31
+  },
+  {
+    "question": "干粉灭火器适用于",
+    "option_a": "固体、液体、气体火",
+    "option_b": "仅电器火",
+    "option_c": "仅油锅火",
+    "option_d": "仅金属火",
+    "id": 32
+  },
+  {
+    "question": "法律的主要特征不包括",
+    "option_a": "任意性",
+    "option_b": "规范性",
+    "option_c": "国家强制性",
+    "option_d": "普遍适用性",
+    "id": 33
+  },
+  {
+    "question": "下列哪种方式可以加快水的蒸发",
+    "option_a": "加热",
+    "option_b": "放在阴凉处",
+    "option_c": "减少空气流动",
+    "option_d": "覆盖保鲜膜",
+    "id": 34
+  },
+  {
+    "question": "冰箱除味更有效的是",
+    "option_a": "活性炭",
+    "option_b": "干毛巾",
+    "option_c": "柠檬片",
+    "option_d": "报纸",
+    "id": 35
+  },
+  {
+    "question": "哪种油更适合高温爆炒",
+    "option_a": "花生油",
+    "option_b": "橄榄油",
+    "option_c": "亚麻籽油",
+    "option_d": "核桃油",
+    "id": 36
+  },
+  {
+    "question": "月相变化一个周期大约是",
+    "option_a": "30天",
+    "option_b": "7天",
+    "option_c": "15天",
+    "option_d": "365天",
+    "id": 37
+  },
+  {
+    "question": "全球化的主要内容不包括",
+    "option_a": "生物全球化",
+    "option_b": "经济全球化",
+    "option_c": "政治全球化",
+    "option_d": "文化全球化",
+    "id": 38
+  },
+  {
+    "question": "垃圾分类中废电池属于",
+    "option_a": "有害垃圾",
+    "option_b": "可回收物",
+    "option_c": "厨余垃圾",
+    "option_d": "其他垃圾",
+    "id": 39
+  },
+  {
+    "question": "节约用水更有效的做法是",
+    "option_a": "随手关水龙头",
+    "option_b": "长时间淋浴",
+    "option_c": "开着水刷牙",
+    "option_d": "用大量水冲地",
+    "id": 40
+  },
+  {
+    "question": "宏观经济政策的主要目标不包括",
+    "option_a": "企业利润最大化",
+    "option_b": "经济增长",
+    "option_c": "充分就业",
+    "option_d": "物价稳定",
+    "id": 41
+  },
+  {
+    "question": "社会化最主要的场所是",
+    "option_a": "家庭",
+    "option_b": "商场",
+    "option_c": "车站",
+    "option_d": "公园",
+    "id": 42
+  },
+  {
+    "question": "社会网络分析中的“强弱关系”强调",
+    "option_a": "关系强度与资源获取",
+    "option_b": "节点数量",
+    "option_c": "图形对称性",
+    "option_d": "随机连接",
+    "id": 43
+  },
+  {
+    "question": "地球自转一周的时间是",
+    "option_a": "24小时",
+    "option_b": "1小时",
+    "option_c": "12小时",
+    "option_d": "30天",
+    "id": 44
+  },
+  {
+    "question": "下列属于岩石的是",
+    "option_a": "花岗岩",
+    "option_b": "沙子",
+    "option_c": "泥土",
+    "option_d": "水",
+    "id": 45
+  },
+  {
+    "question": "政治的核心要素是",
+    "option_a": "权力",
+    "option_b": "财富",
+    "option_c": "技术",
+    "option_d": "媒体",
+    "id": 46
+  },
+  {
+    "question": "被狗咬伤后首要处理是",
+    "option_a": "立即冲洗并尽快接种",
+    "option_b": "先包扎止血",
+    "option_c": "涂抹牙膏",
+    "option_d": "酒精消毒即可",
+    "id": 47
+  },
+  {
+    "question": "文化相对主义主张",
+    "option_a": "尊重不同文化的价值",
+    "option_b": "以某一文化为中心",
+    "option_c": "文化优劣可排序",
+    "option_d": "文化应趋同一致",
+    "id": 48
+  },
+  {
+    "question": "社会问题的本质属性是",
+    "option_a": "公共性",
+    "option_b": "私人性",
+    "option_c": "偶然性",
+    "option_d": "个体性",
+    "id": 49
+  },
+  {
+    "question": "心理学研究的核心对象是",
+    "option_a": "心理与行为",
+    "option_b": "天体运行",
+    "option_c": "市场价格",
+    "option_d": "政治制度",
+    "id": 50
+  },
+  {
+    "question": "切洋葱流泪的主因是",
+    "option_a": "含硫化合物刺激",
+    "option_b": "糖分太高",
+    "option_c": "温度太低",
+    "option_d": "刀太钝",
+    "id": 51
+  },
+  {
+    "question": "刷牙的正确方法是",
+    "option_a": "巴氏法",
+    "option_b": "横刷用力",
+    "option_c": "只刷门牙",
+    "option_d": "用硬毛牙刷",
+    "id": 52
+  },
+  {
+    "question": "现代化的核心维度不包括",
+    "option_a": "生物现代化",
+    "option_b": "经济现代化",
+    "option_c": "政治现代化",
+    "option_d": "文化现代化",
+    "id": 53
+  },
+  {
+    "question": "电梯突然停运被困应",
+    "option_a": "按报警、等待救援",
+    "option_b": "扒门自救",
+    "option_c": "跳下逃生",
+    "option_d": "猛踹门",
+    "id": 54
+  },
+  {
+    "question": "雷雨天气最安全的避雨处是",
+    "option_a": "室内或车内",
+    "option_b": "大树下",
+    "option_c": "空旷地",
+    "option_d": "广告牌下",
+    "id": 55
+  },
+  {
+    "question": "文化最核心的层面是",
+    "option_a": "价值观与规范",
+    "option_b": "服饰饮食",
+    "option_c": "建筑风格",
+    "option_d": "节庆礼仪",
+    "id": 56
+  },
+  {
+    "question": "夜间行车远光灯应",
+    "option_a": "会车切换近光",
+    "option_b": "一直远光",
+    "option_c": "交替闪烁",
+    "option_d": "关闭大灯",
+    "id": 57
+  },
+  {
+    "question": "法律关系的三要素是",
+    "option_a": "主体、客体、内容",
+    "option_b": "条文、判例、习惯",
+    "option_c": "立法、执法、司法",
+    "option_d": "权利、义务、责任",
+    "id": 58
+  },
+  {
+    "question": "公民基本权利的性质是",
+    "option_a": "基础性、不可剥夺",
+    "option_b": "可随意变更",
+    "option_c": "仅限特定群体",
+    "option_d": "由单位规定",
+    "id": 59
+  },
+  {
+    "question": "下列属于昆虫的是",
+    "option_a": "蝴蝶",
+    "option_b": "蜘蛛",
+    "option_c": "蚯蚓",
+    "option_d": "蜗牛",
+    "id": 60
+  },
+  {
+    "question": "下列行为能节约用水的是",
+    "option_a": "用洗菜水浇花",
+    "option_b": "长时间开水龙头刷牙",
+    "option_c": "水管漏水不修理",
+    "option_d": "洗澡一直开着水",
+    "id": 61
+  },
+  {
+    "question": "植物制造食物的主要器官是",
+    "option_a": "叶",
+    "option_b": "根",
+    "option_c": "茎",
+    "option_d": "花",
+    "id": 62
+  },
+  {
+    "question": "市场配置资源的核心机制是",
+    "option_a": "价格机制",
+    "option_b": "行政命令",
+    "option_c": "随机分配",
+    "option_d": "传统习惯",
+    "id": 63
+  },
+  {
+    "question": "食盐加碘的好处是",
+    "option_a": "预防甲状腺肿大",
+    "option_b": "降血压",
+    "option_c": "补钙",
+    "option_d": "助眠",
+    "id": 64
+  },
+  {
+    "question": "比较优势强调的是",
+    "option_a": "相对效率优势",
+    "option_b": "绝对产量最大",
+    "option_c": "生产成本最低",
+    "option_d": "技术水平最高",
+    "id": 65
+  },
+  {
+    "question": "垃圾分类中废电池属于",
+    "option_a": "有害垃圾",
+    "option_b": "可回收物",
+    "option_c": "厨余垃圾",
+    "option_d": "其他垃圾",
+    "id": 66
+  },
+  {
+    "question": "社会流动按方向可分为",
+    "option_a": "水平流动与垂直流动",
+    "option_b": "正向流动与负向流动",
+    "option_c": "内部流动与外部流动",
+    "option_d": "结构性流动与自由流动",
+    "id": 67
+  },
+  {
+    "question": "冰融化成水属于",
+    "option_a": "物理变化",
+    "option_b": "化学变化",
+    "option_c": "颜色变化",
+    "option_d": "气体变化",
+    "id": 68
+  },
+  {
+    "question": "铁锅炒菜更香的原因是",
+    "option_a": "导热快、传热均匀",
+    "option_b": "锅更重",
+    "option_c": "颜色深",
+    "option_d": "价格高",
+    "id": 69
+  },
+  {
+    "question": "遇到雷电天气时最安全的做法是",
+    "option_a": "躲进车里或室内",
+    "option_b": "站在大树下",
+    "option_c": "打电话",
+    "option_d": "在空旷地奔跑",
+    "id": 70
+  },
+  {
+    "question": "种子发芽不需要的条件是",
+    "option_a": "阳光",
+    "option_b": "水分",
+    "option_c": "适宜温度",
+    "option_d": "空气",
+    "id": 71
+  },
+  {
+    "question": "下列哪种行为有助于保护环境",
+    "option_a": "多乘坐公共交通工具",
+    "option_b": "乱扔塑料袋",
+    "option_c": "砍伐森林",
+    "option_d": "浪费纸张",
+    "id": 72
+  },
+  {
+    "question": "油锅起火的处置是",
+    "option_a": "盖锅盖、关火",
+    "option_b": "泼水扑灭",
+    "option_c": "扇风助燃",
+    "option_d": "加冰块",
+    "id": 73
+  },
+  {
+    "question": "现代民主政体以哪项权利为基础",
+    "option_a": "选举权与被选举权",
+    "option_b": "财产权",
+    "option_c": "迁徙自由",
+    "option_d": "宗教信仰自由",
+    "id": 74
+  },
+  {
+    "question": "下列天气现象中属于降水的是",
+    "option_a": "冰雹",
+    "option_b": "闪电",
+    "option_c": "彩虹",
+    "option_d": "龙卷风",
+    "id": 75
+  },
+  {
+    "question": "汽车轮胎花纹主要作用是",
+    "option_a": "排水防滑",
+    "option_b": "减震舒适",
+    "option_c": "降低噪音",
+    "option_d": "好看",
+    "id": 76
+  },
+  {
+    "question": "需求价格弹性的含义是",
+    "option_a": "需求量对价格变动的敏感度",
+    "option_b": "价格对需求量的敏感度",
+    "option_c": "收入对消费的敏感度",
+    "option_d": "供给对价格的敏感度",
+    "id": 77
+  },
+  {
+    "question": "预防流感更有效的是",
+    "option_a": "勤洗手、通风、接种",
+    "option_b": "多喝热水",
+    "option_c": "多吃维C片",
+    "option_d": "长期戴口罩",
+    "id": 78
+  },
+  {
+    "question": "初级群体的典型特征是",
+    "option_a": "规模小、互动频繁",
+    "option_b": "规模大、匿名性高",
+    "option_c": "目标单一、层级森严",
+    "option_d": "临时聚合、弱关系",
+    "id": 79
+  },
+  {
+    "question": "正常腋下体温约为",
+    "option_a": "36.5℃",
+    "option_b": "35.0℃",
+    "option_c": "38.0℃",
+    "option_d": "40.0℃",
+    "id": 80
+  }
+]

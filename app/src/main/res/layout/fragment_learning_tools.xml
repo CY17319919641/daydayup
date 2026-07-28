@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="14dp">
+
+    <TextView
+        android:id="@+id/tvToolsInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tools Fragment：通过 add + hide 进入"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvToolsShared"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="共享状态展示区" />
+
+    <Button
+        android:id="@+id/btnPopFromTools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="popBackStack 返回上一个 Fragment" />
+
+    <Button
+        android:id="@+id/btnOpenDetailFromTools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="从 Tools 再打开 Detail（replace）" />
+
+    <Button
+        android:id="@+id/btnSendToolsMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="发送消息给 Activity" />
+</LinearLayout>

@@ -1,0 +1,562 @@
+[
+  {
+    "question": "独在异乡为异客 的下一句是",
+    "option_a": "每逢佳节倍思亲",
+    "option_b": "遍插茱萸少一人",
+    "option_c": "遥知兄弟登高处",
+    "option_d": "少小离家老大回",
+    "id": 1
+  },
+  {
+    "question": "对酒当歌，人生几何 的下一句是",
+    "option_a": "譬如朝露",
+    "option_b": "去日苦多",
+    "option_c": "慨当以慷",
+    "option_d": "忧思难忘",
+    "id": 2
+  },
+  {
+    "question": "《麦克白》中的女主角是",
+    "option_a": "麦克白夫人",
+    "option_b": "朱丽叶",
+    "option_c": "奥菲莉亚",
+    "option_d": "苔丝狄蒙娜",
+    "id": 3
+  },
+  {
+    "question": "白日依山尽 的下一句是",
+    "option_a": "黄河入海流",
+    "option_b": "欲穷千里目",
+    "option_c": "更上一层楼",
+    "option_d": "长河落日圆",
+    "id": 4
+  },
+  {
+    "question": "《百年孤独》的作者是",
+    "option_a": "马尔克斯",
+    "option_b": "博尔赫斯",
+    "option_c": "聂鲁达",
+    "option_d": "略萨",
+    "id": 5
+  },
+  {
+    "question": "《追忆似水年华》的作者是",
+    "option_a": "普鲁斯特",
+    "option_b": "雨果",
+    "option_c": "巴尔扎克",
+    "option_d": "莫泊桑",
+    "id": 6
+  },
+  {
+    "question": "《安娜·卡列尼娜》的作者是",
+    "option_a": "托尔斯泰",
+    "option_b": "陀思妥耶夫斯基",
+    "option_c": "契诃夫",
+    "option_d": "普希金",
+    "id": 7
+  },
+  {
+    "question": "黄河远上白云间 的下一句是",
+    "option_a": "一片孤城万仞山",
+    "option_b": "春风不度玉门关",
+    "option_c": "孤帆远影碧空尽",
+    "option_d": "长河落日圆",
+    "id": 8
+  },
+  {
+    "question": "我国第一部编年体史书是",
+    "option_a": "《春秋》",
+    "option_b": "《左传》",
+    "option_c": "《国语》",
+    "option_d": "《战国策》",
+    "id": 9
+  },
+  {
+    "question": "《包法利夫人》的作者是",
+    "option_a": "福楼拜",
+    "option_b": "司汤达",
+    "option_c": "雨果",
+    "option_d": "莫泊桑",
+    "id": 10
+  },
+  {
+    "question": "两个黄鹂鸣翠柳 的下一句是",
+    "option_a": "一行白鹭上青天",
+    "option_b": "窗含西岭千秋雪",
+    "option_c": "门泊东吴万里船",
+    "option_d": "春风花草香",
+    "id": 11
+  },
+  {
+    "question": "海上生明月 的下一句是",
+    "option_a": "天涯共此时",
+    "option_b": "江枫渔火对愁眠",
+    "option_c": "月落乌啼霜满天",
+    "option_d": "千里共婵娟",
+    "id": 12
+  },
+  {
+    "question": "感时花溅泪 的下一句是",
+    "option_a": "恨别鸟惊心",
+    "option_b": "城春草木深",
+    "option_c": "烽火连三月",
+    "option_d": "家书抵万金",
+    "id": 13
+  },
+  {
+    "question": "“苏门四学士”不包括",
+    "option_a": "王安石",
+    "option_b": "黄庭坚",
+    "option_c": "秦观",
+    "option_d": "张耒",
+    "id": 14
+  },
+  {
+    "question": "《巴黎圣母院》的作者是",
+    "option_a": "雨果​",
+    "option_b": "巴尔扎克",
+    "option_c": "司汤达",
+    "option_d": "福楼拜",
+    "id": 15
+  },
+  {
+    "question": "《神曲》的作者是",
+    "option_a": "但丁",
+    "option_b": "彼特拉克",
+    "option_c": "薄伽丘",
+    "option_d": "阿里奥斯托",
+    "id": 16
+  },
+  {
+    "question": "《堂吉诃德》的作者是",
+    "option_a": "塞万提斯",
+    "option_b": "加西亚·洛尔卡",
+    "option_c": "博尔赫斯",
+    "option_d": "卡尔德隆",
+    "id": 17
+  },
+  {
+    "question": "“文章合为时而著，歌诗合为事而作”出自",
+    "option_a": "白居易",
+    "option_b": "韩愈",
+    "option_c": "柳宗元",
+    "option_d": "欧阳修",
+    "id": 18
+  },
+  {
+    "question": "大风起兮云飞扬 的下一句是",
+    "option_a": "威加海内兮归故乡",
+    "option_b": "安得猛士兮守四方",
+    "option_c": "大风起兮尘飞扬",
+    "option_d": "风萧萧兮易水寒",
+    "id": 19
+  },
+  {
+    "question": "“江西诗派”的“一祖”是",
+    "option_a": "杜甫",
+    "option_b": "黄庭坚",
+    "option_c": "苏轼",
+    "option_d": "贾岛",
+    "id": 20
+  },
+  {
+    "question": "《诗经》分为哪三类",
+    "option_a": "风雅颂",
+    "option_b": "赋比兴",
+    "option_c": "礼乐书",
+    "option_d": "诗书礼",
+    "id": 21
+  },
+  {
+    "question": "《老人与海》的作者是",
+    "option_a": "海明威",
+    "option_b": "福克纳",
+    "option_c": "菲茨杰拉德",
+    "option_d": "爱伦·坡",
+    "id": 22
+  },
+  {
+    "question": "“不为五斗米折腰”的东晋诗人是",
+    "option_a": "陶渊明",
+    "option_b": "谢灵运",
+    "option_c": "鲍照",
+    "option_d": "左思",
+    "id": 23
+  },
+  {
+    "question": "被称为“诗佛”的唐代诗人是",
+    "option_a": "王维",
+    "option_b": "李白",
+    "option_c": "杜甫",
+    "option_d": "白居易",
+    "id": 24
+  },
+  {
+    "question": "山外青山楼外楼 的下一句是",
+    "option_a": "西湖歌舞几时休",
+    "option_b": "暖风熏得游人醉",
+    "option_c": "直把杭州作汴州",
+    "option_d": "水光潋滟晴方好",
+    "id": 25
+  },
+  {
+    "question": "《红与黑》的主人公是",
+    "option_a": "于连",
+    "option_b": "拉斯蒂涅",
+    "option_c": "罗切斯特",
+    "option_d": "达尔杜弗",
+    "id": 26
+  },
+  {
+    "question": "《悲惨世界》的作者是",
+    "option_a": "雨果",
+    "option_b": "巴尔扎克",
+    "option_c": "莫泊桑",
+    "option_d": "大仲马",
+    "id": 27
+  },
+  {
+    "question": "关关雎鸠，在河之洲 的下一句是",
+    "option_a": "窈窕淑女",
+    "option_b": "君子好逑",
+    "option_c": "白露未晞",
+    "option_d": "悠悠我心",
+    "id": 28
+  },
+  {
+    "question": "莫愁前路无知己 的下一句是",
+    "option_a": "天下谁人不识君",
+    "option_b": "劝君更尽一杯酒",
+    "option_c": "西出阳关无故人",
+    "option_d": "桃花潭水深千尺",
+    "id": 29
+  },
+  {
+    "question": "“南洪北孔”中的“南洪”指",
+    "option_a": "洪昇",
+    "option_b": "孔尚任",
+    "option_c": "汤显祖",
+    "option_d": "李渔",
+    "id": 30
+  },
+  {
+    "question": "《三国演义》的作者是",
+    "option_a": "罗贯中",
+    "option_b": "施耐庵",
+    "option_c": "吴承恩",
+    "option_d": "曹雪芹",
+    "id": 31
+  },
+  {
+    "question": "《罪与罚》的作者是",
+    "option_a": "陀思妥耶夫斯基",
+    "option_b": "果戈里",
+    "option_c": "托尔斯泰",
+    "option_d": "契诃夫",
+    "id": 32
+  },
+  {
+    "question": "简·爱》的作者是",
+    "option_a": "夏洛蒂·勃朗特",
+    "option_b": "艾米莉·勃朗特",
+    "option_c": "安妮·勃朗特",
+    "option_d": "乔治·艾略特",
+    "id": 33
+  },
+  {
+    "question": "“婉约派”词人的代表是",
+    "option_a": "李清照",
+    "option_b": "苏轼",
+    "option_c": "辛弃疾",
+    "option_d": "柳永",
+    "id": 34
+  },
+  {
+    "question": "“建安七子”之一，作《登楼赋》的是",
+    "option_a": "王粲",
+    "option_b": "孔融",
+    "option_c": "陈琳",
+    "option_d": "徐干",
+    "id": 35
+  },
+  {
+    "question": "欲穷千里目 的下一句是",
+    "option_a": "更上一层楼",
+    "option_b": "黄河入海流",
+    "option_c": "白日依山尽",
+    "option_d": "一览众山小",
+    "id": 36
+  },
+  {
+    "question": "“南洪北孔”中的“北孔”指",
+    "option_a": "孔尚任",
+    "option_b": "洪昇",
+    "option_c": "汤显祖",
+    "option_d": "李渔",
+    "id": 37
+  },
+  {
+    "question": "我国第一部国别体史书是",
+    "option_a": "《国语》",
+    "option_b": "《左传》",
+    "option_c": "《战国策》",
+    "option_d": "《史记》",
+    "id": 38
+  },
+  {
+    "question": "“临川四梦”的作者是",
+    "option_a": "汤显祖",
+    "option_b": "关汉卿",
+    "option_c": "王实甫",
+    "option_d": "白朴",
+    "id": 39
+  },
+  {
+    "question": "“唐宋八大家”之首是",
+    "option_a": "韩愈",
+    "option_b": "柳宗元",
+    "option_c": "欧阳修",
+    "option_d": "苏轼",
+    "id": 40
+  },
+  {
+    "question": "《水浒传》的作者是",
+    "option_a": "施耐庵",
+    "option_b": "罗贯中",
+    "option_c": "吴承恩",
+    "option_d": "曹雪芹",
+    "id": 41
+  },
+  {
+    "question": "被称为“诗家夫子”的唐代诗人是",
+    "option_a": "王昌龄",
+    "option_b": "李白",
+    "option_c": "杜甫",
+    "option_d": "王维",
+    "id": 42
+  },
+  {
+    "question": "被称为“诗仙”的唐代诗人是",
+    "option_a": "李白",
+    "option_b": "杜甫",
+    "option_c": "王维",
+    "option_d": "白居易",
+    "id": 43
+  },
+  {
+    "question": "“竹林七贤”之一，作《与山巨源绝交书》的是",
+    "option_a": "嵇康",
+    "option_b": "阮籍",
+    "option_c": "山涛",
+    "option_d": "向秀",
+    "id": 44
+  },
+  {
+    "question": "《尤利西斯》的作者是",
+    "option_a": "乔伊斯",
+    "option_b": "福克纳",
+    "option_c": "伍尔夫",
+    "option_d": "普鲁斯特",
+    "id": 45
+  },
+  {
+    "question": "“史家之绝唱，无韵之离骚”评价的是",
+    "option_a": "《史记》",
+    "option_b": "《汉书》",
+    "option_c": "《三国志》",
+    "option_d": "《资治通鉴》",
+    "id": 46
+  },
+  {
+    "question": "西游记》的作者是",
+    "option_a": "吴承恩",
+    "option_b": "罗贯中",
+    "option_c": "施耐庵",
+    "option_d": "曹雪芹",
+    "id": 47
+  },
+  {
+    "question": "蒹葭苍苍，白露为霜 的下一句是",
+    "option_a": "所谓伊人",
+    "option_b": "在水一方",
+    "option_c": "道阻且长",
+    "option_d": "白露未已",
+    "id": 48
+  },
+  {
+    "question": "“四书”不包括",
+    "option_a": "《尚书》",
+    "option_b": "《大学》",
+    "option_c": "《中庸》",
+    "option_d": "《论语》",
+    "id": 49
+  },
+  {
+    "question": "《雪国》的作者是",
+    "option_a": "川端康成",
+    "option_b": "三岛由纪夫",
+    "option_c": "大江健三郎",
+    "option_d": "村上春树",
+    "id": 50
+  },
+  {
+    "question": "《红楼梦》的作者是",
+    "option_a": "曹雪芹",
+    "option_b": "吴承恩",
+    "option_c": "施耐庵",
+    "option_d": "罗贯中",
+    "id": 51
+  },
+  {
+    "question": "竹外桃花三两枝 的下一句是",
+    "option_a": "春江水暖鸭先知",
+    "option_b": "蒌蒿满地芦芽短",
+    "option_c": "正是河豚欲上时",
+    "option_d": "明月何时照我还",
+    "id": 52
+  },
+  {
+    "question": "葡萄美酒夜光杯 的下一句是",
+    "option_a": "欲饮琵琶马上催",
+    "option_b": "醉卧沙场君莫笑",
+    "option_c": "古来征战几人回",
+    "option_d": "长风破浪会有时",
+    "id": 53
+  },
+  {
+    "question": "《变形记》的作者是",
+    "option_a": "卡夫卡",
+    "option_b": "乔伊斯",
+    "option_c": "伍尔夫",
+    "option_d": "普鲁斯特",
+    "id": 54
+  },
+  {
+    "question": "被称为“梅妻鹤子”的宋代诗人是",
+    "option_a": "林逋",
+    "option_b": "梅尧臣",
+    "option_c": "苏舜钦",
+    "option_d": "欧阳修",
+    "id": 55
+  },
+  {
+    "question": "青青子衿，悠悠我心 的下一句是",
+    "option_a": "纵我不往",
+    "option_b": "子宁不嗣音",
+    "option_c": "悠悠我思",
+    "option_d": "但为君故",
+    "id": 56
+  },
+  {
+    "question": "提出“文以载道”的北宋文学家是",
+    "option_a": "周敦颐",
+    "option_b": "欧阳修",
+    "option_c": "王安石",
+    "option_d": "苏轼",
+    "id": 57
+  },
+  {
+    "question": "中国第一部诗歌总集是",
+    "option_a": "《诗经》",
+    "option_b": "《楚辞》",
+    "option_c": "《乐府》",
+    "option_d": "《全唐诗》",
+    "id": 58
+  },
+  {
+    "question": "“元曲四大家”之一是",
+    "option_a": "关汉卿",
+    "option_b": "白朴",
+    "option_c": "马致远",
+    "option_d": "郑光祖",
+    "id": 59
+  },
+  {
+    "question": "被称为“诗圣”的唐代诗人是",
+    "option_a": "杜甫",
+    "option_b": "李白",
+    "option_c": "王维",
+    "option_d": "白居易",
+    "id": 60
+  },
+  {
+    "question": "《李尔王》的作者是",
+    "option_a": "莎士比亚",
+    "option_b": "马洛",
+    "option_c": "本·琼森",
+    "option_d": "弥尔顿",
+    "id": 61
+  },
+  {
+    "question": "秦时明月汉时关 的下一句是",
+    "option_a": "万里长征人未还",
+    "option_b": "不教胡马度阴山",
+    "option_c": "但使龙城飞将在",
+    "option_d": "羌笛何须怨杨柳",
+    "id": 62
+  },
+  {
+    "question": "《呼啸山庄》的作者是",
+    "option_a": "艾米莉·勃朗特",
+    "option_b": "简·奥斯汀",
+    "option_c": "玛丽·雪莱",
+    "option_d": "乔治·艾略特",
+    "id": 63
+  },
+  {
+    "question": "路漫漫其修远兮 的下一句是",
+    "option_a": "吾将上下而求索",
+    "option_b": "长太息以掩涕兮",
+    "option_c": "哀民生之多艰",
+    "option_d": "乘骐骥以驰骋",
+    "id": 64
+  },
+  {
+    "question": "“豪放派”词人的代表是",
+    "option_a": "苏轼",
+    "option_b": "李清照",
+    "option_c": "柳永",
+    "option_d": "秦观",
+    "id": 65
+  },
+  {
+    "question": "我国第一部纪传体通史是",
+    "option_a": "《史记》",
+    "option_b": "《左传》",
+    "option_c": "《国语》",
+    "option_d": "《战国策》",
+    "id": 66
+  },
+  {
+    "question": "《哈姆雷特》的作者是",
+    "option_a": "莎士比亚",
+    "option_b": "狄更斯",
+    "option_c": "拜伦",
+    "option_d": "雪莱",
+    "id": 67
+  },
+  {
+    "question": "清明时节雨纷纷 的下一句是",
+    "option_a": "路上行人欲断魂",
+    "option_b": "借问酒家何处有",
+    "option_c": "牧童遥指杏花村",
+    "option_d": "夜来风雨声",
+    "id": 68
+  },
+  {
+    "question": "国破山河在 的下一句是",
+    "option_a": "城春草木深",
+    "option_b": "感时花溅泪",
+    "option_c": "恨别鸟惊心",
+    "option_d": "家书抵万金",
+    "id": 69
+  },
+  {
+    "question": "《浮士德》的作者是",
+    "option_a": "歌德",
+    "option_b": "席勒",
+    "option_c": "莱辛",
+    "option_d": "荷尔德林",
+    "id": 70
+  }
+]

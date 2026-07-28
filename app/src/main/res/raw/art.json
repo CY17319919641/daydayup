@@ -1,0 +1,642 @@
+[
+  {
+    "question": "中国传统建筑屋顶等级最高的是",
+    "option_a": "重檐庑殿顶",
+    "option_b": "歇山顶",
+    "option_c": "悬山顶",
+    "option_d": "硬山顶",
+    "id": 1
+  },
+  {
+    "question": "荷兰“黄金时代”画家伦勃朗的代表作是",
+    "option_a": "夜巡",
+    "option_b": "戴珍珠耳环的少女",
+    "option_c": "倒牛奶的女仆",
+    "option_d": "向日葵",
+    "id": 2
+  },
+  {
+    "question": "印象派画家莫奈最擅长描绘的对象是",
+    "option_a": "睡莲",
+    "option_b": "人物肖像",
+    "option_c": "静物花卉",
+    "option_d": "历史题材",
+    "id": 3
+  },
+  {
+    "question": "山水画“南北宗论”中，被推为“南宗之祖”的是",
+    "option_a": "王维",
+    "option_b": "李思训",
+    "option_c": "范宽",
+    "option_d": "郭熙",
+    "id": 4
+  },
+  {
+    "question": "包豪斯设计学院的核心理念强调",
+    "option_a": "艺术与技术的新统一",
+    "option_b": "纯艺术至上",
+    "option_c": "装饰即罪恶",
+    "option_d": "手工艺复兴",
+    "id": 5
+  },
+  {
+    "question": "唐代“昭陵六骏”属于",
+    "option_a": "陵墓石刻",
+    "option_b": "石窟造像",
+    "option_c": "建筑装饰",
+    "option_d": "青铜礼器",
+    "id": 6
+  },
+  {
+    "question": "工笔画常用的宣纸是",
+    "option_a": "熟宣",
+    "option_b": "生宣",
+    "option_c": "绢帛",
+    "option_d": "麻纸",
+    "id": 7
+  },
+  {
+    "question": "后印象派画家梵高最常用的是",
+    "option_a": "厚涂笔触",
+    "option_b": "点彩法",
+    "option_c": "线性透视",
+    "option_d": "银灰色调",
+    "id": 8
+  },
+  {
+    "question": "“谢赫六法”之首是",
+    "option_a": "气韵生动",
+    "option_b": "骨法用笔",
+    "option_c": "应物象形",
+    "option_d": "经营位置",
+    "id": 9
+  },
+  {
+    "question": "秦代小篆的代表碑刻是",
+    "option_a": "峄山刻石",
+    "option_b": "曹全碑",
+    "option_c": "张迁碑",
+    "option_d": "礼器碑",
+    "id": 10
+  },
+  {
+    "question": "汉代隶书成熟的重要标志是",
+    "option_a": "礼器碑",
+    "option_b": "兰亭序",
+    "option_c": "祭侄文稿",
+    "option_d": "黄州寒食帖",
+    "id": 11
+  },
+  {
+    "question": "苏州园林的典型造园手法是",
+    "option_a": "借景",
+    "option_b": "对称布局",
+    "option_c": "高耸围墙",
+    "option_d": "大面积铺装",
+    "id": 12
+  },
+  {
+    "question": "立体主义画家毕加索的代表作是",
+    "option_a": "亚威农的少女",
+    "option_b": "记忆的永恒",
+    "option_c": "星月夜",
+    "option_d": "大碗岛的星期天下午",
+    "id": 13
+  },
+  {
+    "question": "元代杂剧《窦娥冤》的作者是",
+    "option_a": "关汉卿",
+    "option_b": "马致远",
+    "option_c": "白朴",
+    "option_d": "郑光祖",
+    "id": 14
+  },
+  {
+    "question": "米开朗基罗《大卫》的材质是",
+    "option_a": "大理石",
+    "option_b": "青铜",
+    "option_c": "木材",
+    "option_d": "石膏",
+    "id": 15
+  },
+  {
+    "question": "后印象派代表画家不包括",
+    "option_a": "莫奈",
+    "option_b": "塞尚",
+    "option_c": "高更",
+    "option_d": "梵高",
+    "id": 16
+  },
+  {
+    "question": "青花瓷成熟于",
+    "option_a": "元代",
+    "option_b": "宋代",
+    "option_c": "明代",
+    "option_d": "清代",
+    "id": 17
+  },
+  {
+    "question": "中国现代舞蹈先驱是",
+    "option_a": "吴晓邦",
+    "option_b": "戴爱莲",
+    "option_c": "杨丽萍",
+    "option_d": "金星",
+    "id": 18
+  },
+  {
+    "question": "云冈石窟主要开凿于",
+    "option_a": "北魏",
+    "option_b": "唐代",
+    "option_c": "宋代",
+    "option_d": "明代",
+    "id": 19
+  },
+  {
+    "question": "中国画“墨分五色”通常指",
+    "option_a": "焦、浓、重、淡、清",
+    "option_b": "黑、白、灰、红、蓝",
+    "option_c": "干、湿、浓、淡、焦",
+    "option_d": "点、线、面、体、光",
+    "id": 20
+  },
+  {
+    "question": "贝多芬《第六交响曲》的别称是",
+    "option_a": "田园",
+    "option_b": "英雄",
+    "option_c": "命运",
+    "option_d": "合唱",
+    "id": 21
+  },
+  {
+    "question": "宋代词体音乐的代表性伴奏乐器是",
+    "option_a": "琵琶",
+    "option_b": "古琴",
+    "option_c": "二胡",
+    "option_d": "笛子",
+    "id": 22
+  },
+  {
+    "question": "现代舞之母是",
+    "option_a": "伊莎多拉·邓肯",
+    "option_b": "玛莎·格雷厄姆",
+    "option_c": "巴兰钦",
+    "option_d": "尼金斯基",
+    "id": 23
+  },
+  {
+    "question": "哥特式建筑的典型特征是",
+    "option_a": "尖拱与飞扶壁",
+    "option_b": "圆顶与拱券",
+    "option_c": "厚墙与方窗",
+    "option_d": "水平檐口",
+    "id": 24
+  },
+  {
+    "question": "印象派绘画的奠基之作《日出·印象》的作者是",
+    "option_a": "莫奈",
+    "option_b": "马奈",
+    "option_c": "雷诺阿",
+    "option_d": "德加",
+    "id": 25
+  },
+  {
+    "question": "西方音乐“歌曲之王”是",
+    "option_a": "舒伯特",
+    "option_b": "舒曼",
+    "option_c": "勃拉姆斯",
+    "option_d": "门德尔松",
+    "id": 26
+  },
+  {
+    "question": "巴洛克建筑代表是",
+    "option_a": "圣彼得大教堂（广场）",
+    "option_b": "万神殿",
+    "option_c": "帕特农神庙",
+    "option_d": "米兰大教堂",
+    "id": 27
+  },
+  {
+    "question": "龙门石窟位于",
+    "option_a": "河南洛阳",
+    "option_b": "山西大同",
+    "option_c": "甘肃敦煌",
+    "option_d": "四川乐山",
+    "id": 28
+  },
+  {
+    "question": "法国古典主义画家大卫的代表作是",
+    "option_a": "马拉之死",
+    "option_b": "自由引导人民",
+    "option_c": "拾穗者",
+    "option_d": "晚钟",
+    "id": 29
+  },
+  {
+    "question": "古希腊悲剧之父是",
+    "option_a": "埃斯库罗斯",
+    "option_b": "索福克勒斯",
+    "option_c": "欧里庇得斯",
+    "option_d": "阿里斯托芬",
+    "id": 30
+  },
+  {
+    "question": "古希腊雕塑《掷铁饼者》的作者是",
+    "option_a": "米隆",
+    "option_b": "菲狄亚斯",
+    "option_c": "波留克列特斯",
+    "option_d": "斯科帕斯",
+    "id": 31
+  },
+  {
+    "question": "野兽派画家马蒂斯的艺术主张强调",
+    "option_a": "色彩解放",
+    "option_b": "光影写实",
+    "option_c": "形体解构",
+    "option_d": "叙事宏大",
+    "id": 32
+  },
+  {
+    "question": "中国画常见的装裱形式不包括",
+    "option_a": "海报",
+    "option_b": "立轴",
+    "option_c": "册页",
+    "option_d": "长卷",
+    "id": 33
+  },
+  {
+    "question": "雕塑《思想者》的作者是",
+    "option_a": "罗丹",
+    "option_b": "米开朗基罗",
+    "option_c": "贝尼尼",
+    "option_d": "亨利·摩尔",
+    "id": 34
+  },
+  {
+    "question": "超现实主义代表画家是",
+    "option_a": "达利",
+    "option_b": "毕加索",
+    "option_c": "马蒂斯",
+    "option_d": "莫奈",
+    "id": 35
+  },
+  {
+    "question": "明式家具的重要审美特征是",
+    "option_a": "简练典雅",
+    "option_b": "繁缛堆砌",
+    "option_c": "色彩浓艳",
+    "option_d": "金属镶嵌",
+    "id": 36
+  },
+  {
+    "question": "抽象表现主义代表画家是",
+    "option_a": "波洛克",
+    "option_b": "康定斯基",
+    "option_c": "蒙德里安",
+    "option_d": "克利",
+    "id": 37
+  },
+  {
+    "question": "北京故宫中轴线上最重要的建筑是",
+    "option_a": "太和殿",
+    "option_b": "中和殿",
+    "option_c": "保和殿",
+    "option_d": "乾清宫",
+    "id": 38
+  },
+  {
+    "question": "京剧“四大须生”之一是",
+    "option_a": "马连良",
+    "option_b": "谭鑫培",
+    "option_c": "杨宝森",
+    "option_d": "奚啸伯",
+    "id": 39
+  },
+  {
+    "question": "中国古琴曲《广陵散》的传说关联人物是",
+    "option_a": "嵇康",
+    "option_b": "蔡邕",
+    "option_c": "阮籍",
+    "option_d": "李白",
+    "id": 40
+  },
+  {
+    "question": "莎士比亚“四大悲剧”之一是",
+    "option_a": "哈姆雷特",
+    "option_b": "李尔王",
+    "option_c": "奥赛罗",
+    "option_d": "麦克白",
+    "id": 41
+  },
+  {
+    "question": "中国画最强调的造型手段是",
+    "option_a": "线条",
+    "option_b": "色彩",
+    "option_c": "明暗",
+    "option_d": "透视",
+    "id": 42
+  },
+  {
+    "question": "被称为“书圣”的东晋书法家是",
+    "option_a": "王羲之",
+    "option_b": "王献之",
+    "option_c": "钟繇",
+    "option_d": "张芝",
+    "id": 43
+  },
+  {
+    "question": "立体主义代表画家是",
+    "option_a": "毕加索",
+    "option_b": "达利",
+    "option_c": "马蒂斯",
+    "option_d": "康定斯基",
+    "id": 44
+  },
+  {
+    "question": "汉代霍去病墓前石雕群的主题是",
+    "option_a": "马踏匈奴",
+    "option_b": "昭君出塞",
+    "option_c": "张骞通西域",
+    "option_d": "丝绸之路",
+    "id": 45
+  },
+  {
+    "question": "唐代“霓裳羽衣曲”属于",
+    "option_a": "宫廷乐舞",
+    "option_b": "民间小调",
+    "option_c": "宗教音乐",
+    "option_d": "戏曲唱腔",
+    "id": 46
+  },
+  {
+    "question": "被誉为“圆舞曲之王”的作曲家是",
+    "option_a": "小约翰·施特劳斯",
+    "option_b": "老约翰·施特劳斯",
+    "option_c": "莫扎特",
+    "option_d": "贝多芬",
+    "id": 47
+  },
+  {
+    "question": "被称为“画圣”的唐代画家是",
+    "option_a": "吴道子",
+    "option_b": "阎立本",
+    "option_c": "李思训",
+    "option_d": "周昉",
+    "id": 48
+  },
+  {
+    "question": "北宋范宽的代表作是",
+    "option_a": "溪山行旅图",
+    "option_b": "早春图",
+    "option_c": "千里江山图",
+    "option_d": "万壑松风图",
+    "id": 49
+  },
+  {
+    "question": "宋代瓷器名窑中，以“开片”著称的是",
+    "option_a": "哥窑",
+    "option_b": "汝窑",
+    "option_c": "官窑",
+    "option_d": "定窑",
+    "id": 50
+  },
+  {
+    "question": "中国第一部电影是",
+    "option_a": "定军山",
+    "option_b": "难夫难妻",
+    "option_c": "孤儿救祖记",
+    "option_d": "火烧红莲寺",
+    "id": 51
+  },
+  {
+    "question": "文艺复兴“三杰”不包括",
+    "option_a": "拉斐尔",
+    "option_b": "达·芬奇",
+    "option_c": "米开朗基罗",
+    "option_d": "提香",
+    "id": 52
+  },
+  {
+    "question": "摄影术的发明者是",
+    "option_a": "尼埃普斯",
+    "option_b": "达盖尔",
+    "option_c": "塔尔博特",
+    "option_d": "亚当斯",
+    "id": 53
+  },
+  {
+    "question": "抽象艺术“冷抽象”代表是",
+    "option_a": "蒙德里安",
+    "option_b": "康定斯基",
+    "option_c": "波洛克",
+    "option_d": "德库宁",
+    "id": 54
+  },
+  {
+    "question": "芭蕾舞剧《天鹅湖》的作曲家是",
+    "option_a": "柴可夫斯基",
+    "option_b": "贝多芬",
+    "option_c": "莫扎特",
+    "option_d": "李斯特",
+    "id": 55
+  },
+  {
+    "question": "秦始皇陵兵马俑的艺术风格倾向于",
+    "option_a": "写实",
+    "option_b": "抽象",
+    "option_c": "表现",
+    "option_d": "装饰",
+    "id": 56
+  },
+  {
+    "question": "鲁本斯是哪一地区的代表画家",
+    "option_a": "佛兰德斯",
+    "option_b": "荷兰",
+    "option_c": "意大利",
+    "option_d": "法国",
+    "id": 57
+  },
+  {
+    "question": "敦煌莫高窟的开凿始于",
+    "option_a": "十六国北凉",
+    "option_b": "北魏",
+    "option_c": "隋代",
+    "option_d": "唐代",
+    "id": 58
+  },
+  {
+    "question": "清代“扬州八怪”之一，擅画梅的是",
+    "option_a": "金农",
+    "option_b": "郑板桥",
+    "option_c": "李鱓",
+    "option_d": "罗聘",
+    "id": 59
+  },
+  {
+    "question": "中国戏曲“四大名旦”之一是",
+    "option_a": "梅兰芳",
+    "option_b": "程砚秋",
+    "option_c": "尚小云",
+    "option_d": "荀慧生",
+    "id": 60
+  },
+  {
+    "question": "中国书法“楷书四大家”之一是",
+    "option_a": "欧阳询",
+    "option_b": "王羲之",
+    "option_c": "颜真卿",
+    "option_d": "赵孟頫",
+    "id": 61
+  },
+  {
+    "question": "世界电影正式诞生的年份是",
+    "option_a": "1895年",
+    "option_b": "1905年",
+    "option_c": "1911年",
+    "option_d": "1927年",
+    "id": 62
+  },
+  {
+    "question": "元代“元四家”之一是",
+    "option_a": "黄公望",
+    "option_b": "文徵明",
+    "option_c": "唐寅",
+    "option_d": "仇英",
+    "id": 63
+  },
+  {
+    "question": "世界上第一张永久性照片《窗外的景色》的拍摄者是",
+    "option_a": "尼埃普斯",
+    "option_b": "达盖尔",
+    "option_c": "塔尔博特",
+    "option_d": "布列松",
+    "id": 64
+  },
+  {
+    "question": "中国话剧奠基之作《雷雨》的作者是",
+    "option_a": "曹禺",
+    "option_b": "老舍",
+    "option_c": "郭沫若",
+    "option_d": "田汉",
+    "id": 65
+  },
+  {
+    "question": "巴洛克艺术风格起源于",
+    "option_a": "意大利",
+    "option_b": "法国",
+    "option_c": "荷兰",
+    "option_d": "西班牙",
+    "id": 66
+  },
+  {
+    "question": "达·芬奇《最后的晚餐》所在城市是",
+    "option_a": "米兰",
+    "option_b": "佛罗伦萨",
+    "option_c": "罗马",
+    "option_d": "威尼斯",
+    "id": 67
+  },
+  {
+    "question": "后现代主义建筑强调",
+    "option_a": "历史符号与隐喻",
+    "option_b": "纯粹几何体",
+    "option_c": "功能单一",
+    "option_d": "去装饰化",
+    "id": 68
+  },
+  {
+    "question": "明代花鸟画大家“青藤白阳”中的“青藤”指",
+    "option_a": "徐渭",
+    "option_b": "陈淳",
+    "option_c": "八大山人",
+    "option_d": "石涛",
+    "id": 69
+  },
+  {
+    "question": "国际主义建筑风格的缺点是",
+    "option_a": "冷漠与千城一面",
+    "option_b": "造价过高",
+    "option_c": "施工复杂",
+    "option_d": "不耐久",
+    "id": 70
+  },
+  {
+    "question": "波普艺术的代表人物是",
+    "option_a": "安迪·沃霍尔",
+    "option_b": "杜尚",
+    "option_c": "毕沙罗",
+    "option_d": "修拉",
+    "id": 71
+  },
+  {
+    "question": "五代人物画杰作《韩熙载夜宴图》的作者是",
+    "option_a": "顾闳中",
+    "option_b": "顾恺之",
+    "option_c": "张择端",
+    "option_d": "李公麟",
+    "id": 72
+  },
+  {
+    "question": "昆曲“临川四梦”的作者是",
+    "option_a": "汤显祖",
+    "option_b": "关汉卿",
+    "option_c": "王实甫",
+    "option_d": "白朴",
+    "id": 73
+  },
+  {
+    "question": "有声电影出现的标志性影片是",
+    "option_a": "爵士歌王",
+    "option_b": "摩登时代",
+    "option_c": "公民凯恩",
+    "option_d": "乱世佳人",
+    "id": 74
+  },
+  {
+    "question": "被称为“音乐神童”的作曲家是",
+    "option_a": "莫扎特",
+    "option_b": "贝多芬",
+    "option_c": "巴赫",
+    "option_d": "海顿",
+    "id": 75
+  },
+  {
+    "question": "现代主义设计大师密斯·凡·德·罗的名言是",
+    "option_a": "少即是多",
+    "option_b": "形式追随功能",
+    "option_c": "装饰即罪恶",
+    "option_d": "功能与形式统一",
+    "id": 76
+  },
+  {
+    "question": "中国第一部有声电影是",
+    "option_a": "歌女红牡丹",
+    "option_b": "马路天使",
+    "option_c": "十字街头",
+    "option_d": "渔光曲",
+    "id": 77
+  },
+  {
+    "question": "唐代“颠张醉素”中的“颠张”指",
+    "option_a": "张旭",
+    "option_b": "怀素",
+    "option_c": "孙过庭",
+    "option_d": "米芾",
+    "id": 78
+  },
+  {
+    "question": "“决定性瞬间”理论的提出者是",
+    "option_a": "布列松",
+    "option_b": "亚当斯",
+    "option_c": "卡帕",
+    "option_d": "纽霍尔",
+    "id": 79
+  },
+  {
+    "question": "巴黎圣母院的建筑风格是",
+    "option_a": "哥特式",
+    "option_b": "罗马式",
+    "option_c": "巴洛克",
+    "option_d": "文艺复兴式",
+    "id": 80
+  }
+]
