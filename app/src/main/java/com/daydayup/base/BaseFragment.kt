@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.viewbinding.ViewBinding
 import com.daydayup.databinding.FragmentBaseBinding
-import com.daydayup.module_page.HomeActivity
+import com.daydayup.HomeActivity
 import com.gyf.immersionbar.BarHide
 import com.gyf.immersionbar.ImmersionBar
 import kotlin.reflect.KClass

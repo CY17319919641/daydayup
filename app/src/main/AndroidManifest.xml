@@ -30,34 +30,34 @@
             android:exported="false" />
 
         <activity
-            android:name=".module_page.FragmentLearningActivity"
+            android:name=".fragment_learning_demo.FragmentLearningActivity"
             android:exported="false" />
         <activity
-            android:name=".module_page.WaterfallActivity"
+            android:name=".waterfall_demo.WaterfallActivity"
             android:exported="false" />
         <activity
             android:name=".customVew.CustomViewActivity"
             android:exported="false" />
         <activity
-            android:name=".module_page.RadioGroupActivity"
+            android:name=".ViewPager2_demo.RadioGroupActivity"
             android:exported="false" />
         <activity
-            android:name=".module_page.ViewPager2StudyActivity"
+            android:name=".ViewPager2_demo.ViewPager2StudyActivity"
             android:exported="false" />
         <activity
-            android:name=".animation.AnimationFragment"
+            android:name=".animation_demo.AnimationFragment"
             android:exported="false" />
         <activity
-            android:name=".animation.AnimationFragment2"
+            android:name=".animation_demo.AnimationFragment2"
             android:exported="false" />
         <activity
-            android:name=".animation.AnimationActivity"
+            android:name=".animation_demo.AnimationActivity"
             android:exported="false" />
         <activity
             android:name=".base.BaseActivity"
             android:exported="false" />
         <activity
-            android:name=".module_page.HomeActivity"
+            android:name=".HomeActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
