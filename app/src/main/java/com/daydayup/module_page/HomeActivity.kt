@@ -3,13 +3,13 @@ package com.daydayup.module_page
 import android.content.Intent
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
-import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import com.daydayup.R
 import com.daydayup.animation.AnimationActivity
 import com.daydayup.base.BaseActivity
+import com.daydayup.customVew.CustomViewActivity
 import com.daydayup.databinding.ActivityHomeBinding
 import com.daydayup.recyclerview_demo.RecyclerActivity
 import kotlin.reflect.KClass

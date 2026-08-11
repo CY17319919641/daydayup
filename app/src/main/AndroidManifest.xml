@@ -36,7 +36,7 @@
             android:name=".module_page.WaterfallActivity"
             android:exported="false" />
         <activity
-            android:name=".module_page.CustomViewActivity"
+            android:name=".customVew.CustomViewActivity"
             android:exported="false" />
         <activity
             android:name=".module_page.RadioGroupActivity"

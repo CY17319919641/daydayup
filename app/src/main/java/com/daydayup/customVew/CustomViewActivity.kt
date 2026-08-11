@@ -1,4 +1,4 @@
-package com.daydayup.module_page
+package com.daydayup.customVew
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

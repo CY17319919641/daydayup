@@ -1,9 +1,8 @@
-package com.daydayup.view
+package com.daydayup.customVew
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.ViewGroup
-import androidx.core.view.isGone
 
 class SimpleRowLayout @JvmOverloads constructor(
     context: Context,

@@ -1,17 +1,16 @@
-package com.daydayup.view
+package com.daydayup.customVew
 
 import android.content.Context
 import android.graphics.Canvas
 import android.graphics.Color
 import android.graphics.Paint
-import android.graphics.RectF
 import android.util.AttributeSet
 import android.view.View
 
 
 
 
-class ColorBlockRoundCornerView @JvmOverloads constructor(
+class ColorBlockView @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet? = null,
     defStyleAttr: Int = 0)
@@ -21,12 +20,8 @@ class ColorBlockRoundCornerView @JvmOverloads constructor(
             color = Color.parseColor("#4CAF50")
             style = Paint.Style.FILL
         }
-
-        private val rect = RectF()
-        private var connerRadius = 18f
     override fun onDraw(canvas: Canvas) {
         super.onDraw(canvas)
-        rect.set(0f, 0f, width.toFloat(), height.toFloat())
-        canvas.drawRoundRect(rect, connerRadius, connerRadius, paint)
+        canvas?.drawRect(0f,0f,width.toFloat(),height.toFloat(),paint)
     }
 }
