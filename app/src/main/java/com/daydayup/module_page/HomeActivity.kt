@@ -11,6 +11,7 @@ import com.daydayup.R
 import com.daydayup.animation.AnimationActivity
 import com.daydayup.base.BaseActivity
 import com.daydayup.databinding.ActivityHomeBinding
+import com.daydayup.recyclerview_demo.RecyclerActivity
 import kotlin.reflect.KClass
 
 class HomeActivity : BaseActivity<ActivityHomeBinding>(){
@@ -48,6 +49,10 @@ class HomeActivity : BaseActivity<ActivityHomeBinding>(){
         }
         binding.goFragment.setOnClickListener {
             val intent = Intent(this, FragmentLearningActivity::class.java)
+            startActivity(intent)
+        }
+        binding.goRecyclerView.setOnClickListener {
+            val intent = Intent(this, RecyclerActivity::class.java)
             startActivity(intent)
         }
     }

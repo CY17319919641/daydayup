@@ -88,6 +88,22 @@
                 android:layout_marginEnd="@dimen/dp_10"
                 />
 
+            <TextView
+                android:id="@+id/go_recyclerView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/bg_main_item"
+                android:text="recyclerView"
+                android:fontFamily="@font/font_144"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dp_18"
+                android:layout_marginTop="@dimen/dp_30"
+                android:layout_marginStart="@dimen/dp_10"
+                android:layout_marginEnd="@dimen/dp_10"
+                />
+
         </LinearLayout>
 
 

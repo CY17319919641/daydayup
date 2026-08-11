@@ -18,13 +18,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Daydayup">
         <activity
+            android:name=".recyclerview_demo.RecyclerActivity"
+            android:exported="false" />
+        <activity
             android:name=".notificationdemo.NotificationDemoActivity"
             android:exported="true" />
 
         <receiver
             android:name=".notificationdemo.NotificationActionReceiver"
             android:enabled="true"
-            android:exported="false"></receiver>
+            android:exported="false" />
 
         <activity
             android:name=".module_page.FragmentLearningActivity"
