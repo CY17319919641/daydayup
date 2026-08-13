@@ -36,6 +36,9 @@ fun View.slideInFRomTopAndOut(){
     slidInAnimation.fillAfter = true
     startAnimation(slidInAnimation)
 
+
+    //View部分的延迟方法  {}部分的内容在主线程中执行
+    // 这里其实执行的是view.postDelayed()
     postDelayed({
         val slidOutAnimation = TranslateAnimation(
             Animation.RELATIVE_TO_SELF, 0f,//x轴起点
@@ -56,6 +59,7 @@ fun View.shakeLeftToRight(){
     //但是单位变成像素
     val shakeAnimation = TranslateAnimation(0f,25f,0f,0f)
     shakeAnimation.duration = 500
+    //三次 一正一反循环播放动画
     shakeAnimation.interpolator = CycleInterpolator(3f)
     startAnimation(shakeAnimation)
 
@@ -64,12 +68,12 @@ fun View.shakeLeftToRight(){
 fun View.fadeInThenOut(onAnimationEnd:()-> Unit ={}){
     val fadeInAnimation = AlphaAnimation(0f,1f)
     val fadeOutAnimation = AlphaAnimation(1f,0f)
-    fadeInAnimation.duration = 1000
+    fadeInAnimation.duration = 1500
     fadeInAnimation.fillAfter = true
     startAnimation(fadeInAnimation)
 
     postDelayed( {
-        fadeOutAnimation.duration = 1000
+        fadeOutAnimation.duration = 1500
         fadeOutAnimation.fillAfter = false
         fadeOutAnimation.setAnimationListener(object : Animation.AnimationListener{
             override fun onAnimationEnd(animation: Animation?) {

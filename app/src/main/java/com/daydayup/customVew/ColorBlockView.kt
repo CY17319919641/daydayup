@@ -16,12 +16,13 @@ class ColorBlockView @JvmOverloads constructor(
     defStyleAttr: Int = 0)
     : View(context, attrs,defStyleAttr){
 
+        //标志位是抗锯齿
         private val paint = Paint(Paint.ANTI_ALIAS_FLAG).apply {
             color = Color.parseColor("#4CAF50")
             style = Paint.Style.FILL
         }
-    override fun onDraw(canvas: Canvas) {
-        super.onDraw(canvas)
-        canvas?.drawRect(0f,0f,width.toFloat(),height.toFloat(),paint)
-    }
+        override fun onDraw(canvas: Canvas) {
+            super.onDraw(canvas)
+            canvas?.drawRect(0f,0f,width.toFloat(),height.toFloat(),paint)
+        }
 }
