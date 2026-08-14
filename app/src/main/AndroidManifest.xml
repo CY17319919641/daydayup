@@ -18,7 +18,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Daydayup">
         <activity
-            android:name=".recyclerview_demo.RecyclerActivity"
+            android:name=".recyclerviewdemo.RecyclerActivity"
             android:exported="false" />
         <activity
             android:name=".notificationdemo.NotificationDemoActivity"
@@ -30,28 +30,28 @@
             android:exported="false" />
 
         <activity
-            android:name=".fragment_learning_demo.FragmentLearningActivity"
+            android:name=".fragmentlearningdemo.FragmentLearningActivity"
             android:exported="false" />
         <activity
-            android:name=".waterfall_demo.WaterfallActivity"
+            android:name=".waterfalldemo.WaterfallActivity"
             android:exported="false" />
         <activity
-            android:name=".customVew.CustomViewActivity"
+            android:name=".customview.CustomViewActivity"
             android:exported="false" />
         <activity
-            android:name=".ViewPager2_demo.RadioGroupActivity"
+            android:name=".viewpager2demo.RadioGroupActivity"
             android:exported="false" />
         <activity
-            android:name=".ViewPager2_demo.ViewPager2StudyActivity"
+            android:name=".viewpager2demo.ViewPager2StudyActivity"
             android:exported="false" />
         <activity
-            android:name=".animation_demo.AnimationFragment"
+            android:name=".animationdemo.AnimationFragment"
             android:exported="false" />
         <activity
-            android:name=".animation_demo.AnimationFragment2"
+            android:name=".animationdemo.AnimationFragment2"
             android:exported="false" />
         <activity
-            android:name=".animation_demo.AnimationActivity"
+            android:name=".animationdemo.AnimationActivity"
             android:exported="false" />
         <activity
             android:name=".base.BaseActivity"

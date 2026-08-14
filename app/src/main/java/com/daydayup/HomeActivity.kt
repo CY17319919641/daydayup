@@ -6,14 +6,14 @@ import androidx.activity.enableEdgeToEdge
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
-import com.daydayup.ViewPager2_demo.ViewPager2StudyActivity
-import com.daydayup.animation_demo.AnimationActivity
+import com.daydayup.viewpager2demo.ViewPager2StudyActivity
+import com.daydayup.animationdemo.AnimationActivity
 import com.daydayup.base.BaseActivity
-import com.daydayup.customVew.CustomViewActivity
+import com.daydayup.customview.CustomViewActivity
 import com.daydayup.databinding.ActivityHomeBinding
-import com.daydayup.fragment_learning_demo.FragmentLearningActivity
-import com.daydayup.recyclerview_demo.RecyclerActivity
-import com.daydayup.waterfall_demo.WaterfallActivity
+import com.daydayup.fragmentlearningdemo.FragmentLearningActivity
+import com.daydayup.recyclerviewdemo.RecyclerActivity
+import com.daydayup.waterfalldemo.WaterfallActivity
 import kotlin.reflect.KClass
 
 class HomeActivity : BaseActivity<ActivityHomeBinding>(){
